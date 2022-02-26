@@ -1,0 +1,713 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tell-troth's reqvitall, or, Truth's recompence as it was preached the 12th day of November, 1626, at Eckington: wherein are contained these three propositions, (vindicating Paul from the aspersion of enmity, and laying it on the Galatians,) viz. 1 No grace of God in man can secure him from the enmity of the unregenerate. 2 Sometimes a ministers owne hearers are set in variance against him. 3 The publication of the truth is the cause of this variance. By Samuel Kenrick student in divinity, and preacher of Gods word in the same place.</title>
+            <author>Kenrick, Samuel, b. 1602 or 3.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1627</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 90 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72485</idno>
+            <idno type="STC">STC 14933</idno>
+            <idno type="STC">ESTC S123195</idno>
+            <idno type="EEBO-CITATION">99899106</idno>
+            <idno type="PROQUEST">99899106</idno>
+            <idno type="VID">150656</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72485)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150656)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1966:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tell-troth's reqvitall, or, Truth's recompence as it was preached the 12th day of November, 1626, at Eckington: wherein are contained these three propositions, (vindicating Paul from the aspersion of enmity, and laying it on the Galatians,) viz. 1 No grace of God in man can secure him from the enmity of the unregenerate. 2 Sometimes a ministers owne hearers are set in variance against him. 3 The publication of the truth is the cause of this variance. By Samuel Kenrick student in divinity, and preacher of Gods word in the same place.</title>
+                  <author>Kenrick, Samuel, b. 1602 or 3.</author>
+               </titleStmt>
+               <extent>[10], 27, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Miles Flesher for Robert Mylbourne, and are to be sold at the great south doore of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1627.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery, San Marino, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Word of God (Theology) --  Sermons --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150656:1" rendition="simple:additions"/>
+            <p>THE TELL-TROTH'S REQVITALL, OR, <hi>Truth's Recompence:</hi> As it was preached the 12<hi rend="sup">th</hi> day of November, 1626, at <hi>Eckington:</hi> WHEREIN Are contained theſe three Propoſitions, (vin<g ref="char:EOLhyphen"/>dicating <hi>Paul</hi> from the aſperſion of Enmity, and laying it on the <hi>Galati<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns,</hi>) <hi>
+                  <g ref="char:V">Ʋ</g>iz.</hi>
+            </p>
+            <list>
+               <item>1 <hi>No grace of God in man can ſecure him from the enmity of the unregenerate.</hi>
+               </item>
+               <item>2 <hi>Sometimes a Miniſters owne hearers are ſet in variance againſt him.</hi>
+               </item>
+               <item>3 <hi>The publication of the Truth is the cauſe of this variance.</hi>
+               </item>
+            </list>
+            <p>By <hi>Samuel Kenrick</hi> Student in Divinity, and Preacher of Gods word in the ſame place.</p>
+            <q>
+               <hi>Veritas odium parit, ſed non quaerit angulos.</hi>
+            </q>
+            <p>LONDON, Printed by <hi>Miles Fleſher</hi> for <hi>Robert Mylbourne,</hi> and are to be ſold at the great South doore of <hi>Pauls.</hi> 1627.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:150656:2"/>
+            <pb facs="tcp:150656:2"/>
+            <head>TO THE RIGHT WOR<g ref="char:EOLhyphen"/>ſhipfull, Sir <hi>William Courten, Samuel Kenrick</hi> wiſheth all grace, and peace, and happineſſe in both worlds.</head>
+            <opener>
+               <salute>Right Worſhipfull:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T were as great an injury to <hi>Cuſtome,</hi> to write, and not to dedicate, as tis to your <hi>love,</hi> to receive a <hi>courteſie,</hi> and not ſtudy a requitall. Now, tis the happy lot of a Scholler, to play the <hi>Surgeon,</hi> and partly at one clap (with a <hi>paper-plaiſter</hi>) cure both griefes. I confeſſe, I am indebted to them both; and, in both, to you. If then, I ſeeme to preſume, either blame Cuſtome, or your Love. Common ſenſe ſent me to Cuſtome; Cuſtome, to your Love; and both challenged from me the <hi>debt</hi> of this preſumption. Receive then theſe few rude lines, as your due, in part of payment. Ho<g ref="char:EOLhyphen"/>nour them with your acceptance, as ſometimes you have graced mine <hi>Auditory</hi> with your preſence. I have perceived your love unto the <hi>truth;</hi> I have
+<pb facs="tcp:150656:3"/>found you a friend unto it: whither then ſhould I ſend the <hi>truth</hi> but to<note n="*" place="margin">Talmud: Cholin, <hi>62.1.</hi>
+               </note> ſuch a Patron? Every thing (by ſome native inclination) haſtens to that, where<g ref="char:EOLhyphen"/>by it gaines. The <hi>Dog</hi> knowes his graſſe; the <hi>Hart,</hi> his Dittany; the <hi>Pigeon,</hi> her Lawrell; and the <hi>Swallow</hi> her Celidon: neither is the <hi>Truth</hi> ignorant of her well-wiſhers, or inſenſible of her Phyſitians. There<g ref="char:EOLhyphen"/>fore, I truſt, however it goes forth from me in weak<g ref="char:EOLhyphen"/>neſſe, and diſgrace; it will returne (like her ſelfe) in ſtrength, and honour. But, if you knew all, you would ſay, it were too young to make a <hi>Martyr,</hi> and indeed the <hi>Preſse</hi> befits not its infancy. It was but conceived in the morning; and brought forth ere night; it be<g ref="char:EOLhyphen"/>gan to<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Thucid. hb. <hi>1.</hi>
+               </note> twatle on the morrow; and (being a little ſawcy with the ſonnes of <hi>Belial</hi>) met with a checke, and almoſt dared unto martyrdome, before it could get home to my ſtudy. So, it was neither my pre<g ref="char:EOLhyphen"/>fumption, nor foole-hardineſſe, that ſent it to the <hi>Printing-houſe,</hi> (if any ſhall ſo thinke, he will offer injury to my ſimplicity) nor was it (ſimply) that uſuall argument of Apology (the <hi>Importunity</hi> of friends) but the audacious malipertneſs of the Adverſaries of <hi>Truth,</hi> that drew it, as it were, perforce, out of mine hands. Let it therefore find the <hi>burrow</hi> of your pa<g ref="char:EOLhyphen"/>tronage, and you ſhall encourage me hereafter unto more deliberate exerciſes. What now remaines, in the meane time, but mine humble praiers to God for you?<note place="margin">Nezian.</note> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>:) for I have no more. There<g ref="char:EOLhyphen"/>fore, the <hi>Lord God</hi> Almighty (who is the ancient of <hi>daies,</hi> and the God of <hi>Truth,</hi> keepe you in the <hi>Truth,</hi> and bleſſe both you, and yours, with peace, and length of daies; that you may ſtand for the peace,
+<pb facs="tcp:150656:3"/>(and maintaine the ſtrength) of <hi>Truth</hi> here; and af<g ref="char:EOLhyphen"/>terwards be crowned (like the <hi>Truth</hi>) with immor<g ref="char:EOLhyphen"/>tall Ioyes. So I reſt</p>
+            <closer>
+               <dateline>From my houſe in <hi>Eckington</hi> 
+                  <date>this 12 of December. 1626.</date>
+               </dateline>
+               <signed>Your Worſhips moſt lowly devoted in all Chriſtian ſervice. Samuel Kenricke.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:150656:4"/>
+            <head>To my reverend and venerable Bre<g ref="char:EOLhyphen"/>thren, the Miniſters of the Goſpell of <hi>Truth,</hi> peace and proſperity in this world, and fulneſſe of glory hereafter.</head>
+            <opener>
+               <salute>Reverend Brethren:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Bring forth my papers among you,<note place="margin">Quaſi &amp; latere ſimul &amp; legi vellem, educo. Cunaeus.</note> as one that ſcarce knowes, whether it be beſt to <hi>hide them, or reveale them.</hi> But, ſee<g ref="char:EOLhyphen"/>ing now, that no other <hi>Nay</hi> would ſtop the mouth of <hi>neceſſity,</hi>
+               <note place="margin">Durum telum, neceſſitas.</note> but the Printing of them, I am bold to deſire a part of <hi>Patro<g ref="char:EOLhyphen"/>nage</hi> from you (too) for my <hi>Impe.</hi> All is little enough to ſhrowd it from the wea<g ref="char:EOLhyphen"/>ther, as the winde now ſits. Therefore bee good to it, I pray you. Twas a quicke birth, God knowes; and, it may die, like an <hi>abor<g ref="char:EOLhyphen"/>tive,</hi> in its nativity, for ought I perceive, if it miſſe the <hi>almes</hi> of your approbation. Nor, is my requeſt without reaſon, if you conſi<g ref="char:EOLhyphen"/>der the nature of my <hi>ſubject;</hi> whoſe nobility entreats not onely the <hi>courteſie,</hi> but commands the <hi>debt</hi> of your acceptance.</p>
+            <p>For firſt it concernes you much:<milestone type="tcpmilestone" unit="unspecified" n="1"/> tis the <hi>Truth;</hi> and tis your profeſſion to ſtand for it. Its owne <hi>worth,</hi> not my <hi>comment,</hi> may move you to it. My dull oratory hath too low areach to handle the height of it: yet my poore ſtraine (what ever it be herein) though haſty, yet tis liberall, and free-borne; which calls me, <hi>Parent;</hi> and you, <hi>Patrons.</hi>
+            </p>
+            <p>Secondly,<milestone type="tcpmilestone" unit="unspecified" n="2"/> Tis the honour of your ſpirituall valour to buckle for the <hi>Truth:</hi> you have the Sword of the Spirit, the Word of God: you are tough, and approved Souldiers in the Schoole of Chriſt; (I ſpeake not to the <hi>ſilent Cattell</hi> in the Miniſtery.) Sit ye downe then, in the <hi>Charets of Ammi-nadib,</hi> and plead for my <hi>yong<g ref="char:EOLhyphen"/>ling,</hi> that can ſcarce ſpeake for it ſelfe. Let the care of its credit, or pitty of its weakneſſe, perſwade you to patronize it.</p>
+            <p>Nay further,<milestone type="tcpmilestone" unit="unspecified" n="3"/> ye are bound by the lawes of Piety, Charity, and Nature, (too,) unleſſe you deeme me one of <hi>Levies illegitimates,</hi> to aſtipulate to my requeſt. For, in Natures Schoole, ſtrike the
+<pb facs="tcp:150656:4"/>dog, and (with an inherent proclivity) he runnes to his maſter: wound the Souldier, and be haſtens to the army: the <hi>Antiperiſta<g ref="char:EOLhyphen"/>ſis</hi> of the cold ſends the heat backe againe into the fire: yea,<note n="*" place="margin">Vnumquod<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> magis inclinatur adid, cuius eſt.</note> every thing (by a natur all inclination) hath reſpect unto that, whereunto it chiefly belongs. Now, the Church is my <hi>center,</hi> and receptacle; you, the <hi>Guardians:</hi> whither then, ſhould I flye for ſhelter, but to you? if any refuſe me this curteſie, tis either for envy, or elſe for enmitie.</p>
+            <p>But alas, we are not cleane, in <hi>Levies</hi> Tribe, from Critickes, whoſe beſt learning conſiſts in cenſuring others; whoſe beſt skill is to ſhew their owne folly. And indeed, tis no wonder, to ſee ſome <hi>Ba<g ref="char:EOLhyphen"/>ſtard Curs,</hi> when they dare not bite, dare barke: ſome cowardly <hi>Braggadochioes,</hi> when they dare not fight, dare cracke of their manhood: and tis no injury, to ſay, There are ſome Ideaes of wiſe<g ref="char:EOLhyphen"/>dome, who, when they dare not write, dare carpe; and happely prove themſelves as liber all of their ignorance, as of their words.</p>
+            <p>But I leave ſuch unto the further doome of my ſilent cenſure: nor let them thinke, that my purpoſe was ever bent to grace them with the dedication of my lines. Therefore to you, my Brethren, (whoſe grave diſcretion &amp; Chriſtian love have taught you to cover an er<g ref="char:EOLhyphen"/>ror,) to you I turne my ſelfe againe: And if, in this Pamphlet, my phraſe ſhall ſeeme too clowniſh, (for ſuch was the adverſaries com<g ref="char:EOLhyphen"/>ment upon the delivery) pardon it, and ſay, I live among my fel<g ref="char:EOLhyphen"/>lowes, and have not, as yet, learned any better eloquence, then (with the home bred Souldier) to call a <hi>Spade,</hi> a Spade. Beſides, ſome of you know, that Phyſick is a part of my profeſſion, and practice:<note place="margin">Ex ſpuma dra<g ref="char:EOLhyphen"/>corum veneneta fit Bezoardicum.</note> and therein of ſtrong poiſon, I make an wholeſome medicine: why may not then ſome <hi>Balme of Gilead</hi> (by a divine confection) be extra<g ref="char:EOLhyphen"/>cted out of an harſh phraſe; which (ſimply taken) may breed an of<g ref="char:EOLhyphen"/>fence. But your judgments I know are apprehenſive; I need not in<g ref="char:EOLhyphen"/>forme. Your affections, I truſt, friendlike; I need no further per<g ref="char:EOLhyphen"/>ſwade. Fruſtrate not then my expectation of your acceptance here<g ref="char:EOLhyphen"/>of: ſo you may haply <hi>milke</hi> from me ſome ſweeter ſtreames of my more maturate ſtudies: and in the meane while, (yea ever) you ſhall find me obliged by this <hi>truth,</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>From my houſe in</hi> Eckington <date>
+                     <hi>this 12 of Decemb. 1626.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>The readieſt (though the meaneſt in our tribe) to doe you ſervice,</hi> Samuel Kenrick.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:150656:5"/>
+            <head>TOMY WELL DEVO<g ref="char:EOLhyphen"/>ted Neighbours in the towne of <hi>Eckington;</hi> all grace and love of the truth be multiplyed in you.</head>
+            <opener>
+               <salute>Chriſtian friends,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Bring you here onely an <hi>Herbe</hi> of your for<g ref="char:EOLhyphen"/>mer taſting, by preſenting (now) unto your <hi>eyes,</hi> what heretofore I preached to your <hi>eares:</hi> and it is of your owne garden (too;) for you are Lords of my <hi>Miniſteriall ſervices:</hi> yea you may ſay unto mee as ſometimes <hi>Paul</hi> did unto <hi>Phile<g ref="char:EOLhyphen"/>mon;</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Epiſt. Pauli ad Phi<g ref="char:EOLhyphen"/>lem, verſ. <hi>19.</hi>
+               </note> 
+               <hi>Thou oweſt thy very ſelfe</hi> unto us. Well then; take my notes unto you: labour to make them uſefull unto your ſoules; Buy this <hi>Truth</hi> with your dili<g ref="char:EOLhyphen"/>gence; Sell it not with your ſleighty regard of it: If you have hated it, learne now to love it; if you love it, love it ſtill; maintaine it; ſtand for it; make much of it; ſo ſhall you know that the <hi>Lord will doe you good</hi> (not ſo much, <hi>becauſe you have</hi>
+               <note n="*" place="margin">Iudg. 17.13.</note> 
+               <hi>a Levite to your Prieſt,</hi> as) becauſe you have the <hi>Truth</hi> dwelling in you. But why ſtand I here to move your affections, when (hap<g ref="char:EOLhyphen"/>pily) your underſtandings are not altogether ſo rightly
+<pb facs="tcp:150656:5"/>informed in the Text as they ought? Now indeed tis fit that the<note n="a" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Talmud.</note> 
+               <hi>beginnings of things ſhould bee diligently looked</hi> unto. And it is a good rule for a Scholler often<note n="b" place="margin">Pliny Sec. Epiſt. <hi>6.</hi> lib. <hi>3.</hi>
+               </note> 
+               <hi>to looke backe upon the Title of his owne workes.</hi> You may (indeed) make a doubt, whether I haue rightly interpreted this Text, or not: whether the Apoſtle de<g ref="char:EOLhyphen"/>mands, <hi>[Am I therefore become your enemy, &amp;c?]</hi> to free himſelfe from the aſperſion of <hi>Enmity,</hi> or to up<g ref="char:EOLhyphen"/>braid the <hi>Galatians</hi> with it; I ſay, to upbraid them with it: which poſition, I bind with theſe arguments.</p>
+            <p>Firſt,<note place="margin">
+                  <hi>1.</hi> Galatorum inobedientia.</note> the Apoſtle takes them up ſharply for their<note n="c" place="margin">Gal. 3.1.</note> diſ<g ref="char:EOLhyphen"/>obedience unto the truth; (which is the uſuall companion of Emnity.) <hi>Chap. 3. verſ. 1.</hi> as alſo <hi>chap 5. v. 7.</hi> which makes a probability that hee upbraids them here of En<g ref="char:EOLhyphen"/>mity againſt him.</p>
+            <p>Secondly,<note place="margin">
+                  <hi>2.</hi> Epanorthoſis Apoſtolica.</note> I argue from the Apoſtles ſudden <hi>correcti<g ref="char:EOLhyphen"/>on</hi> of himſelfe in this preſent text: Before he blazoned forth their <hi>Encomiaſticke</hi> praiſes: now he ſings a <hi>Pali<g ref="char:EOLhyphen"/>node, Am I therefore become your enemy, &amp;c.?</hi> Be<g ref="char:EOLhyphen"/>fore, <hi>they would have plucked out their owne eyes</hi> for him, &amp;c. Now, they ſeeme to hate him. Therefore I conjecture hee upbraids them in theſe words, <hi>Am I therefore become your enemy, &amp;c.?</hi>
+            </p>
+            <p>Thirdly,<note place="margin">
+                  <hi>3.</hi> Orthodoxoru<g ref="char:cmbAbbrStroke">̄</g> Conſenſus.</note> I gurge the <hi>conſent</hi> of orthodoxall Writers upon this place; as<note n="d" place="margin">Haet eſt con<g ref="char:EOLhyphen"/>ditio veritatis, ut ſemper inimi<g ref="char:EOLhyphen"/>citie perſequax<g ref="char:EOLhyphen"/>tur. <hi>Hier. in hunc verſime.</hi>
+               </note> 
+               <hi>Hierome,</hi>
+               <note n="e" place="margin">Tàm expro<g ref="char:EOLhyphen"/>brandicausá, quàm admonendi, &amp;c. <hi>Calvin.</hi>
+               </note> 
+               <hi>Calvin,</hi>
+               <note n="f" place="bottom">Ju verſ. <hi>17.</hi>
+               </note> 
+               <hi>Beza,</hi> and<note n="g" place="bottom">Cum voserga me praeſen<g ref="char:EOLhyphen"/>tem tm alacres oſtenderitis, tanto<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> amore me complexi fueritis, non debebatis menunc pro inimice habere. <hi>Piſc. in hunc locum.</hi>
+               </note> 
+               <hi>Piſcator:</hi> and alſo <hi>Bezaes</hi> Gloſſe upon the <hi>17</hi> verſe, <hi>They zelouſly affect you, &amp;c.</hi> that they might tranſ<g ref="char:EOLhyphen"/>port all your love from me upon themſelves. Therefore it ſeemes unto me that the Apoſtle (now finding them to
+<pb facs="tcp:150656:6"/>halt in their love to him-wards) upbraids them with an <hi>Am I therefore become your enemy, &amp;c?</hi>
+            </p>
+            <p>But, if I have erred herein, pardon my haſte: I little thought to print it, when I pend it: and (I know) you will witneſſe with me, that I have not much mended the <hi>coat</hi> of the delivery. Bleſſe it then with your Chriſtian approbation, and you ſhall incourage me hereafter (the rather) to plead for the <hi>Truth.</hi> Now, with my prayers to Almighty God for the increaſe of grace in your hearts, I leave you for this time, and will reſt</p>
+            <closer>
+               <signed>Your moſt aſſured friend and Paſtor, <hi>Samuel Kenricke.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:150656:6"/>
+            <head>THE TELL-TROTHS REQVITALL.</head>
+            <epigraph>
+               <bibl>
+                  <hi>GALAT. 4.16.</hi>
+               </bibl>
+               <q>Am I therefore become your enemy, becauſe I tell you the truth?</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He beſt cauſe findes not alwayes the beſt <hi>patronage:</hi> neither are<note n="a" place="margin">Liberè, &amp; ſi<g ref="char:EOLhyphen"/>ne adulatime veritatem prae<g ref="char:EOLhyphen"/>dicantes, &amp; geſta pravae vite arguentes gra<g ref="char:EOLhyphen"/>tiam non babent apud homines. <hi>Ambroſ. in 1 Cor. 4.10.</hi>
+               </note> good Miniſters alwaies bleſt with the affections of their hearers. Some <hi>brood</hi> of <hi>Iſmael</hi> (of a curriſh nature) like <hi>churliſh Nabal,</hi> never wanted the quips of enmity, againſt the <hi>Ho<g ref="char:EOLhyphen"/>ly Truth.</hi> For was it ever knowne, that there was a time wherein <hi>Stum<g ref="char:EOLhyphen"/>bling-blockes</hi> were not laid in the <hi>walks</hi> of <hi>Truth?</hi> who ever told the <hi>Truth,</hi> and was not (with <hi>Paul</hi>) accounted an <hi>Enemy</hi> for it?</p>
+            <p>If <hi>John</hi> will needs twit <hi>Herod</hi> for keeping his brother <hi>Phi<g ref="char:EOLhyphen"/>lips</hi> wife, off goes his head for it: his Sermon's now no lon<g ref="char:EOLhyphen"/>ger accepted: he tells the <hi>Truth,</hi> and hee ſmarts for it. If Chriſt once begin to blow up the skirts of the Scribes and Phariſes, and broach their hypocriticall <hi>outward lines</hi> to the view of the world; then ſtraight a confederacy againſt him; he muſt be put to death, and that for telling the <hi>Truth. A<g ref="char:EOLhyphen"/>mos</hi> muſt not be too buſie in the Kings Court; if he be, hee is bid, <hi>Avant;</hi> and quickly made ware, that tis the <hi>Kings Chappell:</hi> he muſt away, and eate his <hi>bread in Iudah.</hi> Nor may
+<pb n="2" facs="tcp:150656:7"/>we forget the ſucceſſe of <hi>Elijah,</hi> who no ſooner beganne to <hi>blab</hi> againſt the Statutes of <hi>Omri,</hi> but ſtraight way hee is counted <hi>Ahabs</hi> enemy, <hi>Haſt thou found me ô; mine enemie?</hi> No maruell then, if good <hi>Paul</hi> be counted an <hi>enemy,</hi> for telling the <hi>Truth:</hi> for rubbing away the old ceremonies of the Le<g ref="char:EOLhyphen"/>viticall Law; for branding them out with the title of <hi>beggar<g ref="char:EOLhyphen"/>ly rudiments:</hi> In ſhort, for teaching juſtification to the <hi>Gala<g ref="char:EOLhyphen"/>tians</hi> by faith alone in Chriſt Ieſus.</p>
+            <p>For ſo ſtirring and operative is the nature of the <hi>Truth,</hi> and its language ſo working, that it ſoone netles a corrupt heart; and where it lights, it peppers to the quicke. And indeed, we may not miſtake the times; we muſt think them <hi>then,</hi> as they are <hi>now;</hi> wherein the friends of <hi>Truth,</hi> are but like ſtars, whereof</p>
+            <p>Some ſeeme to be,<milestone type="tcpmilestone" unit="unspecified" n="1"/> and are not: pendulous meteors, whoſe gloazing promiſeth much, yet ſoone dies (like abortives) even in the nativity. Such <hi>Comets of amity,</hi> and <hi>ſhadowes</hi> of friendſhip had <hi>Paul;</hi> ſuch have wee. Now, wee are their friends; now againe, their <hi>enemies.</hi> Now they are with us; now againe departing from us. And why? becauſe they were not of us. Thus their friendſhip comes, and goes, like the good dayes of an ill ague; and (to ſpeake <hi>Truth</hi>) tis but enmity at beſt.</p>
+            <p>Others are ſtars indeed,<milestone type="tcpmilestone" unit="unspecified" n="2"/> but yet erraticall, not ſtinted to a certaineſituation: ſuch friends the times will now afford: Now, they doe (indeed) the offices of friends: but by and by (with <hi>Hyminaeus</hi> and <hi>Philetus</hi>) they make ſhipwracke of them: and ſhall we blame them? Their nature is erraticall and fleeting.</p>
+            <p>But ſome are fixt,<milestone type="tcpmilestone" unit="unspecified" n="3"/> and keepe their ſtation: ſo ſome friends are faſt-ones, who will not give ground to the ſwindge of anger, or violence of <hi>Enmity. Paul</hi> (no doubt) had ſome friends of each ſort: neither doe we blame all the <hi>Galatians,</hi> for ſome of them. <hi>Charity</hi> hath taught us a limitation of <hi>Cenſure.</hi>
+            </p>
+            <p>So then, (theſe premiſes wiſely conſidered) the ſtrange<g ref="char:EOLhyphen"/>neſſe of this truth is a little qualified, that <hi>Paul</hi> ſhould bee
+<pb n="3" facs="tcp:150656:7"/>counted an enemy to theſe Galatians; or, that hee ſhould ſo pathetically demand of them, <hi>Am I therefore become your enemy, becauſe I tell you the truth?</hi>
+            </p>
+            <p>Time prevents a larger preamble: of the drift or meaning in a word, which I conceive to be this:</p>
+            <p>
+               <note n="b" place="margin">Summam hu<g ref="char:EOLhyphen"/>jus explicationis colligo ex Hiero<g ref="char:EOLhyphen"/>nimo, Calvins, Beza, &amp; Piſca<g ref="char:EOLhyphen"/>tore, ſuper hanc locum. Et vid. plurain Epiſt. ad Lector.</note> I <hi>(Paul a Miniſter of Ieſus Chriſt)</hi> perceiving you <hi>[the Galatians]</hi> to halt in your love,<note place="margin">Expoſitio.</note> to be eſtranged to mee, as though <hi>I were become your enemy,</hi> (or rather indeed, to be at enmity with me) am bold to enquire of you <hi>[my hearers,]</hi> whether this enmity ariſeth from any other cauſe, then for telling you the <hi>Truth [revealed unto me, by the Spirit of God.]</hi>
+            </p>
+            <p>In which plea, we may obſerve two parties;
+<list>
+                  <item>1 <hi>Paul,</hi> on the one ſide.</item>
+                  <item>2 The <hi>Galatians</hi> on the other.
+<list>
+                        <item>1 He tels the <hi>Truth.</hi>
+                        </item>
+                        <item>2 They <hi>hate</hi> him for it.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+            <p>So wee ſee, their natures are differenced by two diſtinct qualities, <hi>Truth</hi> and <hi>Enmity.</hi> Enmity is now become (and indeed<note n="c" place="margin">Haec eſt con<g ref="char:EOLhyphen"/>ditio veritatis, ut com ſemper inimicitiae perſe<g ref="char:EOLhyphen"/>quantur. <hi>Hier. in hunc locum.</hi> Diviſio. <hi>1</hi>
+               </note> ever was) the neareſt <hi>conſequent</hi> of Truth: And here the children are (as it were) ſet againſt their owne parent: <hi>Am I therefore become your enemy, becauſe I tell you the Truth?</hi>
+            </p>
+            <p>Wherein wee may obſerve more plainly two parts in ge<g ref="char:EOLhyphen"/>nerall:
+<list>
+                  <item>1 An interrogation, or queſtion: <hi>Am I therefore become your enemy?</hi>
+                  </item>
+                  <item>2 The anticipation, or prevention of the anſwer,<milestone type="tcpmilestone" unit="unspecified" n="2"/> 
+                     <hi>becauſe I tell you the Truth.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>More particularly wee may hence collect theſe foure branches.</p>
+            <list>
+               <item>1. The injury conceived; enmity:<milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+                  <hi>Am I therefore become your enemy?</hi>
+               </item>
+               <item>2 The perſon, in whom,<milestone type="tcpmilestone" unit="unspecified" n="2"/> (or rather againſt whom) it was conceived to be: I, <hi>Paul.</hi>
+               </item>
+               <item>3 The perſons againſt whom, (or rather,<milestone type="tcpmilestone" unit="unspecified" n="3"/> in whom) it was conceived: <hi>your enemy.</hi>
+               </item>
+               <item>4 The cauſe of this enmity; It was the <hi>Truth:</hi>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> for telling the <hi>Truth.</hi>
+               </item>
+            </list>
+            <p>
+               <pb n="4" facs="tcp:150656:8"/>Looke over the Text againe, and behold every part, (eve<g ref="char:EOLhyphen"/>ry word) caries the aggravation of griefe in the face of it.</p>
+            <list>
+               <item>1 Looke on the paſſion; <milestone type="tcpmilestone" unit="unspecified" n="1"/> t'was no leſſe then <hi>enmity;</hi> t'was not ſo light as anger.</item>
+               <item>2 Conſider the perſon hated:<milestone type="tcpmilestone" unit="unspecified" n="2"/> t'was <hi>Paul,</hi> (no <hi>Iudas,</hi> but) their owne Preacher.</item>
+               <item>3 See the perſons hating:<milestone type="tcpmilestone" unit="unspecified" n="3"/> noe other then the <hi>Galatians, His owne hearers.</hi>
+               </item>
+               <item>4 Search the cauſe; <milestone type="tcpmilestone" unit="unspecified" n="4"/> and tis the <hi>Truth;</hi> (the publication of the <hi>holy Truth</hi> of righteouſneſſe.)</item>
+            </list>
+            <p>Had it beene any other indignity, then <hi>Enmity;</hi> any other Preacher, then <hi>Paul;</hi> any other Hearers, then the <hi>Galatians;</hi> any other Cauſe, then the <hi>Truth;</hi> I would not ſo much maruell: but that there ſhould be ſuch a <hi>wrong</hi> offered to ſuch a <hi>Preacher,</hi> of ſuch <hi>Hearers,</hi> for ſuch a <hi>Cauſe; Horreſco refe<g ref="char:EOLhyphen"/>rens,</hi> I tremble to tell it.</p>
+            <p>But tis neither our feare, nor amazedneſſe, that either helpes <hi>Paul</hi> out of the bryers, or frees us of the like danger: ſome ſeaſonable inſtructions out of the Text may rather doe the feate: therefore of the particulars in their order: and firſt of the firſt and ſecond,<note place="margin">1 &amp; 2 part.</note> 
+               <hi>The enmity,</hi> and the perſon, <hi>(Paul)</hi> againſt whom it was conceived.</p>
+            <p>And here by the way take notice, that it appeares by the ſcope of this Scripture, that this enmity was <hi>ſeemingly</hi> in (but <hi>really</hi> againſt) <hi>Paul:</hi> It was <hi>really</hi> in (but onely <hi>ſeemingly</hi> a<g ref="char:EOLhyphen"/>gainſt) the <hi>Galatians.</hi> So we proceed, <hi>Am I therefore become your enemy?</hi>
+            </p>
+            <p>Some queſtion may here ariſe,<note place="margin">QueſT. Solut.</note> what this <hi>Enmity</hi> is? Wher<g ref="char:EOLhyphen"/>unto I anſwer briefly, That tis<note n="d" place="margin">Eſt vctus ira ex pluribus cau<g ref="char:EOLhyphen"/>ſis collecta, diu<g ref="char:EOLhyphen"/>turno tempore perſeverans. <hi>Aug. de diffin.</hi>
+               </note> a grounded paſſion (if I may ſo ſpeake) ariſing from naturall affection diſtempered, and breaking forth into a diſdainfull contempt, or oppoſi<g ref="char:EOLhyphen"/>tion of that which we hate. And this differs</p>
+            <p>Firſt, from <hi>envy:</hi> for a man cannot envy himſelfe, yet hee may be at enmity (in ſome ſort) with himſelfe.</p>
+            <p>Secondly from <hi>anger:</hi> for that is but a diſpoſition; this, an<note n="e" place="margin">Feſtuca in oculo ira eſt: trabs in oculo, oaium eſt <hi>Aug. in Math.</hi>
+               </note> habit. Anger is but enmity begun: but enmity is an<g ref="char:EOLhyphen"/>ger finiſhed.</p>
+            <p>
+               <pb n="5" facs="tcp:150656:8"/>Thirdly from <hi>abomination:</hi> for in abomination wee pro<g ref="char:EOLhyphen"/>porly hate the evill, but not the perſon.</p>
+            <p>But enmity againſt others is when we hate,
+<list>
+                  <item>1 The fault of the party offending, as it is a fault.<note place="margin">Vt culpa.</note>
+                  </item>
+                  <item>2 The perſon too, for his fault.<note place="margin">Vt poena.</note>
+                  </item>
+                  <item>3 We deſire the evill of puniſhment to befall him; and this is called the<note n="f" place="margin">Alrenethim Epiſcop. Cath<g ref="char:EOLhyphen"/>nenſ de-medicina anima.</note> 
+                     <hi>hatred of enmity.</hi> And this (I take it) lights here upon <hi>Paul,</hi> whereby he himſelfe is counted an <hi>enemy</hi> to his <hi>Galatians.</hi> Divine <hi>Paul!</hi> yet none of his priviledges could prevent their malice.</item>
+               </list>
+            </p>
+            <list>
+               <item>1 Neither his calling unto the Miniſtery: yet that was powerfull, and miraculous: <hi>he was called immediately of God.</hi>
+               </item>
+               <item>2 Nor his learning; yet <hi>he ſpake wiſedome among thoſe that are perfect.</hi>
+               </item>
+               <item>3 Nor his<note n="g" place="margin">Vita fideſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> inculpata fuit. <hi>Ovid. mer.</hi> Propoſ. <hi>1.</hi>
+                  </note> unblameable converſation; yet <hi>that was in heaven:</hi> yea he deſired to be <hi>diſſolved and to be with Chriſt.</hi>
+               </item>
+            </list>
+            <p>This conſidered, wee may ſafely conclude hence, that <hi>Neither profundity in learning, nor power in preaching, nor un<g ref="char:EOLhyphen"/>blameableneſſe in converſation, can ſecure a man from the enmity of the unregenerate. Paul</hi> was hated; who then can be freed? he (alas he) was counted an enemy,<note n="h" place="margin">Quis ſerme ad explicanda Pauli merita ſufficiet? quae lingua laudibus eius invenietur aequalis? cum omnia, quae ſunt in omnibus bona, anima una poſſi<g ref="char:EOLhyphen"/>deat, &amp;c. <hi>Chryſ. de laudibus Pauli.</hi>
+               </note> whoſe praiſes no tongue can expreſſe: in whoſe ſoule <hi>Divine grace</hi> choſe her habita<g ref="char:EOLhyphen"/>tion. He, who was the pillar of the Churches; Hee, who travelled by<note n="i" place="margin">Hieron. in Ep. ad Exube<g ref="char:EOLhyphen"/>rap. Choyſoſt.</note> ſea and land, to implant the <hi>Truth</hi> among the Gentiles: That earthly Angell, that heavenly man, who learned among the<note n="k" place="margin">Maxim. in ſerm. Petri &amp; Pauli.</note> Angels, what he ſhould preach among men, is now hated as an enemy.</p>
+            <p>Alas good <hi>Paul;</hi> what, art thou counted <hi>an enemy?</hi> Why, thou waſt not inferiour to the very chiefeſt Apoſtles: thou hadſt the care of the Churches: thou labouredſt more then they all: thou ſpakeſt with tongues more then they all: thou foughteſt with beaſts at <hi>Epheſus:</hi> thou ſpakeſt wiſedome among thoſe that were perfect: thou didſt tread Satan un<g ref="char:EOLhyphen"/>der thy feet: thou waſt rapt up into the third heaven: thou heardeſt<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> words unutterable: all which graces and privi<g ref="char:EOLhyphen"/>ledges were moſt amiable, yet (for all thoſe) thou art hated and counted <hi>an enemy.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:150656:9"/>But why wander I ſo farre abroad to fetch <hi>Pauls</hi> com<g ref="char:EOLhyphen"/>mendations? let but the eye of reaſon looke home to this preſent <hi>Epiſtle,</hi> yea this preſent Chapter, and ſee the very Text hemd in with ſuch reaſons and arguments of love that it ſeemes very reaſonleſſe,<note place="margin">Motives that might have in<g ref="char:EOLhyphen"/>duced the Ga<g ref="char:EOLhyphen"/>latians to love <hi>Paul.</hi>
+               </note> that theſe <hi>Galatians</hi> ſhould either hate <hi>Paul,</hi> or account him an enemy unto them.</p>
+            <p>Firſt, ſee his care and his feare of them: verſ. 11. <hi>I am afraid of you,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> 
+               <hi>leſt I have beſtowed upon you labour in vaine.</hi> Me thinks love ſhould have been the recompence of ſo tender an heart.</p>
+            <p>Secondly,<milestone type="tcpmilestone" unit="unspecified" n="2"/> ſee his patience, verſ. 12. <hi>Brethren, be as I am; for I am as ye are: ye have not injured me at all.</hi> See him here, with a patient forgetfulneſſe, content to paſſe over former diſcourteſies without recapitulation.</p>
+            <p>Thirdly,<milestone type="tcpmilestone" unit="unspecified" n="3"/> ſee his painfulneſſe among them, verſ. 13. <hi>Yee know, how through infirmity of fleſh, I preached unto you.</hi> Alas <hi>Paul</hi> thy diligence did not deſerve their enmity: ſo the<note n="l" place="margin">Duplicatur do<g ref="char:EOLhyphen"/>lor, cum ab eo, à quo non merue<g ref="char:EOLhyphen"/>ris, venit: Tantò magis iniuria eſt effectior, quantò proximus eſt, qui facit. <hi>Seneca.</hi>
+               </note> in<g ref="char:EOLhyphen"/>jury is the greater; becauſe undeſerved</p>
+            <p>Nay, this argument may bee illuſtrated with a two-fold <hi>Exegeſis.</hi>
+            </p>
+            <p>Firſt, he was now in priſon at <hi>Rome;</hi> and yet he preached unto them by <hi>Epiſtle.</hi>
+            </p>
+            <p>Secondly, he was now aged: a Miniſter of Chriſt of three and thirty yeares ſtanding, and within three yeares of his laſt end. Now, the<note n="m" place="margin">Prov. 16.31.</note> 
+               <hi>hoary head is a crowne of glory, if it bee found in the way of righteouſneſſe.</hi>
+            </p>
+            <p>Fourthly,<milestone type="tcpmilestone" unit="unspecified" n="4"/> ſee their, former love unto him: verſ. 14, 15. They rejected him not: yea, <hi>ye received me</hi> (as hee himſelfe teſtifies of them) <hi>as an Angell from God, even as Chriſt Ieſus.</hi>
+            </p>
+            <p>But now ſee a cooler, they count him an <hi>enemy</hi> unto them. Yea further, ſayes he, <hi>ye would have pulled forth your owne eyes, and have given them to me.</hi> But now the caſe is altered: their zeale is qualified, and hee accounted <hi>an Enemy.</hi>
+            </p>
+            <p>Fiftly,<milestone type="tcpmilestone" unit="unspecified" n="5"/> ſut vay the danger of theſe <hi>Galatians</hi> in cleaving unto others: verſ. 17. <hi>They zealouſly affect you, but not well: they would exclude you,</hi>
+               <note n="o" place="margin">Vt omnem a<g ref="char:EOLhyphen"/>morem à me in ipſo; transfera<g ref="char:EOLhyphen"/>tis. <hi>Beza ſuper haec verba.</hi>
+               </note> 
+               <hi>that you might affect them.</hi> Why then ſhould <hi>Paul</hi> (notwithſtanding all his priviledges) bee coun<g ref="char:EOLhyphen"/>ted an <hi>enemy?</hi> Even becauſe he tells the <hi>Truth.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:150656:9"/>But this enmity was not ſo individually reſtrained, that it lighted upon <hi>Paul</hi> onely: for even ſo it fared with Chriſt too; who for learning was excellent, and for life exquiſite; in all, perfect: and yet hated for telling the <hi>Truth.</hi>
+            </p>
+            <p>Nor could the priviledge of integrity ſecure <hi>Iob</hi> from the enmity (what if I ſay of his owne wife?) of his friends. In a word, ſee <hi>Luke</hi> 21.16, 17. <hi>Ye</hi> (be ye graced with what ex<g ref="char:EOLhyphen"/>cellencies ſoever) <hi>ſhall be betrayed by parents and friends, &amp;c. and ye ſhall be hated of all men for my names ſake.</hi> So you ſee, there is no excellency of grace whatſoever, that is able to ſhelter us from the arrowes of hatred: they<note n="p" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Hom.</note> flye at randome, and ſpare not (if not ſooneſt hit) the deareſt in Gods ſight.</p>
+            <p>And that we may diſcerne a little more clearly the truth of this truth, let us briefly take notice of theſe three grounds; wherein (as I thinke) we are all agreed.</p>
+            <p>Firſt, that all the excellencies of grace in man, as know<g ref="char:EOLhyphen"/>ledge,<milestone type="tcpmilestone" unit="unspecified" n="1"/> wiſedome, learning, patience, godlineſſe, &amp;c. are of a divine, heavenly, and ſpirituall ſtampe, and impreſſion; granted unto man in his native-good-firſt eſtate.</p>
+            <p>Secondly, that whatſoever we now gaine in thoſe excel<g ref="char:EOLhyphen"/>lencies,<milestone type="tcpmilestone" unit="unspecified" n="2"/> is a part (but a <hi>ſcant</hi> meaſure) of what we loſt.</p>
+            <p>Thirdly, that betweene the excellencies of theſe eſtates,<milestone type="tcpmilestone" unit="unspecified" n="3"/> and the corruption of our ill-ſecond-acquired condition, there is an eſſentiall <hi>difference,</hi> or variance.</p>
+            <p>Theſe things thus provided,<note place="margin">Probation.</note> we may reaſon out this truth from the <hi>antipathy,</hi> or difference, betweene <hi>Pauls</hi> eſtate by grace, and theſe unregenerate <hi>Galatians.</hi> I ſay, tis no won<g ref="char:EOLhyphen"/>der to ſee the gifts and graces before mentioned to be hated of unregenerate men,<note place="margin">Argum. <hi>1.</hi> Mizald. <hi>1.</hi> lib. arcan.</note> becauſe of the repugnancy that is be<g ref="char:EOLhyphen"/>tweene their natures: they cannot ſtand together. In all things wee may perceive ſome native hatred, and diſa<g ref="char:EOLhyphen"/>greement.</p>
+            <p>In vegetables,<milestone type="tcpmilestone" unit="unspecified" n="1"/> (ſuch things as have onely the power of growing:) the Vine, by naturall antipathy,<milestone type="tcpmilestone" unit="unspecified" n="2"/> is repugnant to the Colewort; ſo is the Oake to the Olive, and the Walnut.<note place="margin">Pythagoras.</note>
+            </p>
+            <p>In ſenſitives, there is the like difference. The<note n="q" place="margin">Pliny lib. <hi>10.</hi> c. <hi>74.</hi> Ariſtotle lib. <hi>9.</hi> cap. <hi>1.</hi> de natu. anim.</note> Bee is at variance with the Waſpe; the Spider with the Serpent; the
+<pb n="8" facs="tcp:150656:10"/>Wolfe with the Lambe; the Horſe with the Beare; the little Birds with the Owle.</p>
+            <p>Yea in reaſonable creatures this difference is ſeene.<milestone type="tcpmilestone" unit="unspecified" n="3"/> One man hath a naturall diſlike of another, and that without cauſe appearing; which proceeds from the oppoſition of their ſpirits and humors. Now, if among all theſe there be ſuch a variance and inherent antipathy; much rather ſurely be<g ref="char:EOLhyphen"/>tweene the graces of Gods Spirit in the regenerate, and the corruptions of the wicked. For if the<note n="r" place="margin">Rom. 8.7.</note> 
+               <hi>wiſdome of the fleſh</hi> be accounted <hi>enmity with God,</hi> no marvell if the wiſdome of God be accounted enmity of the unregenerate.</p>
+            <p>Nor will it ſeeme diſſonant from the <hi>truth,</hi>
+               <note place="margin">Argument <hi>2.</hi>
+               </note> or our judgement of the unregenerate judgment of the unregenerate; how that is blinded, their underſtanding obfuſcated, and their mind (in a word) ſo univerſally led with the ſpirit of errour, that they cannot rightly diſtinguiſh <hi>Paul</hi> from <hi>Plato,</hi> Divinitie from Morality; no marvell then, if they diſ-eſteeme (yea even hate) both <hi>depth of learning, power of preaching, and un<g ref="char:EOLhyphen"/>blameableneſſe of converſation.</hi> If a man want his eye-ſight, all colours are alike unto him, becauſe hee can diſtinguiſh none; and in his feeling there is no difference betweene Lead and Gold: ſo to the underſtanding of an unregenerate man, grace ſeemes no better then nature: he cannot diſcerne the things that are of Gods Spirit, <hi>becauſe they muſt be ſpiritu<g ref="char:EOLhyphen"/>ally diſcerned.</hi> Yea, let him be<note n="f" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, id eſt, homo non alia, quàm naturali animi luce prae<g ref="char:EOLhyphen"/>ditus. <hi>Alſted. Syſtem. lib. 1. pag. 49.</hi> Argum. <hi>3.</hi>
+               </note> never ſo perfectly read in the <hi>Ethickes</hi> of <hi>Ariſtotle,</hi> or pureſt moralities of the Heathen, he knowes not, he diſcernes not <hi>Pauls</hi> graces, without Gods Spirit: and then we need not wonder to ſee ſome unregene<g ref="char:EOLhyphen"/>rate <hi>Galatians</hi> at enmity with <hi>Paul,</hi> not withſtanding all his excellencies.</p>
+            <p>And the rather, if wee conſider the perverſneſſe of mans will (by nature) unto any thing, that is ſimply good. To ſuch a one, grace is no care; and the paſſion of enmity, no feare. For his will is wholly ſet to do evill: And wee know, that approbation and diſlike do not alwayes proceed from a judgement rightly informed: but ſometimes from the will, corrupted and miſguided. Yea, ſometimes the will is lifted
+<pb n="9" facs="tcp:150656:10"/>unto ſuch a pitch of peremptorie thwarting, that wee will gain-ſay what aſſuredly we know:<note n="t" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> cruciantes.</note> hating the grace that is divine; and ſpurning at the <hi>truth</hi> becauſe it is the <hi>truth.</hi> So we ſee, that unregeneracy is no juſt mete-rod of the <hi>truth:</hi> it over-weenes vice, it under-values vertue; and tis impoſ<g ref="char:EOLhyphen"/>ſible that it ſhould give the wiſedome of God its due.</p>
+            <p>Thus much for the information of our judgements; the time now calls for ſome application, prepare therefore your affections.</p>
+            <p>And firſt of all, come hither, my brethren in the Miniſte<g ref="char:EOLhyphen"/>rie;<note place="margin">Applicat. <hi>1.</hi>
+               </note> come, I ſay, and ſee your portion, and your ſhare in the inheritance of <hi>Levi.</hi> I am (I confeſſe) the meaneſt and moſt unfit either to counſell the ancient, or comfort the oppreſ<g ref="char:EOLhyphen"/>ſed; yet the little candle may give ſome light among the greater Lampes; and the treble ſtrings (with their ſmalleſt notes) may make ſome muſicke in the eares of the hearers; I doe but ſing for company; if my note bee harſh, pardon it: and then conſider, you who-ever (or where-ever) you are; you, I ſay, to whom God hath committed the care of his Church: you, that ſpeake wiſedome among thoſe that are perfect: you, in whom that <hi>Holy</hi>
+               <note n="u" place="margin">
+                  <hi>Ruah Hakko<g ref="char:EOLhyphen"/>deſh.</hi> Rabbi David. Kimhi in Pſal.</note> 
+               <hi>Spirit of Truth</hi> ſhineth: you, who fight with beaſts in the world, (enemies to the way of godlineſſe:) you, that live<note n="*" place="margin">Phil. 2.15, 16.</note> blameleſſe and harme<g ref="char:EOLhyphen"/>leſſe, the ſonnes of God, in the middeſt of a <hi>crooked and per<g ref="char:EOLhyphen"/>verſe generation,</hi> among whom ye ſhine as lights in the world, holding forth the word of life: you, who neglect no time, but ſtill are watching for the ſoules of your people: you, in whom there flowes a<note n="x" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Viri celeber<g ref="char:EOLhyphen"/>rimi.</note> Sea of divine eloquence in reſpect of others: Conſider, I ſay, that none of all your priviledges can ſecure you from enmity. Be as carefull, as patient, as diligent, as loving, as loved as ever <hi>Paul</hi> was, yet you<note n="y" place="margin">Hâc virtutis iter.</note> ſhall bee ac<g ref="char:EOLhyphen"/>counted enemies, and that for telling the <hi>Truth.</hi>
+            </p>
+            <p>Yet (though you haue to doe with <hi>men-devills,</hi> and bee ſmitten with the blowes of hatred) ſtand faſt, and ſtriue yee for the faith of the Goſpell; bee nothing<note n="z" place="margin">Phil. 1.27, 28</note> terrified by your adverſaries for all this: for to them it is an evident token of perdition: but to you of ſalvation, and that of God. Nay,
+<pb n="10" facs="tcp:150656:11"/>be not diſmayed, though to the diſeſteeme of your gifts, and enmity againſt all your graces, were an addition of ten thou<g ref="char:EOLhyphen"/>ſand indignities: though you ſhould ſee thoſe <hi>Mock-ſtars</hi> of grace, thoſe <hi>Ideaes</hi> of Learning, thoſe vicious livers (who are <hi>crept in among us,</hi>
+               <note place="margin">Iude 4.</note> 
+               <hi>ungodly men, turning the grace of our God into wantonneſſe,</hi>) whoſe wiſedome ſtands rather in a pretence then eſſence of grace, whoſe <hi>Blacke-coates</hi> ſerve onely to be<g ref="char:EOLhyphen"/>flout the vocation of <hi>Levi,</hi> (if not ſhame it quite) though you ſee thoſe, accepted in the world, and live at eaſe, while good <hi>Paul</hi> wants the countenance even of his owne <hi>Galatians.</hi> A<g ref="char:EOLhyphen"/>las, conſider their end, and that is deſtruction: conſider their glory, and that is ſhame; becauſe they mind earthly things. But, brethren, let us<note n="a" place="margin">Tim. 2.1.6. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, to ſtir up fire.</note> 
+               <hi>ſtirre up</hi> thoſe gifts and graces of Gods Spirit in us, while the world accounts us enemies for <hi>telling the truth.</hi>
+            </p>
+            <p>Secondly,<note place="margin">Applicat. <hi>2.</hi>
+               </note> what <hi>Paul,</hi> that great Scholler now counted an <hi>enemy!</hi> what, hee that taught ſo many ſweet Sermons a<g ref="char:EOLhyphen"/>mong them? that even <hi>travelled in birth of them?</hi> for whom they would haue <hi>pulled out their owne eyes!</hi> is he hated? ſure<g ref="char:EOLhyphen"/>ly this tells us that unregenerate men doe thus groſſely ſinne againſt their owne knowledge. Alas thoſe <hi>Galatians</hi> could not be ignorant that <hi>Paul</hi> laboured earneſtly for their good; that his calling was miraculous; his gifts excellent; yet for all this they hate him, and count him an <hi>Enemy.</hi>
+            </p>
+            <p>A fearfull caſe, my brethren, when a people ſhall be at en<g ref="char:EOLhyphen"/>mity with Gods choſen veſſells (whom happely they have ſeemed ſometimes to affect,) and to hate them without a cauſe. Looke to it, thou, whoever thou art: thou haſt a little Iudge within thee (thine owne conſcience) which ſhall one day be awakened; which ſhall make thee bite thine owne lips, and cry out in the language of <hi>Iudas, I have ſinned in betraying the innocent blood.</hi> Therefore lift not up your horn too high, ye that have this <hi>Holy Truth</hi> in ſuch deepe diſ<g ref="char:EOLhyphen"/>daine, and cloath good <hi>Paul</hi> and his brethren with the robes of enemous diſgrace. For tis a very<note n="b" place="margin">Theſſ. 1.6.</note> righteous thing in God to render <hi>tribulation upon thoſe that trouble us.</hi> But what? can hatred or enmity wrong <hi>Pauls</hi> priviledges? no; in no
+<pb n="11" facs="tcp:150656:11"/>wiſe. Grace is beyond hatred. For gold may buy out hatred: but nor gold, nor hatred can buy Grace or Learning. What need we then care? we have prevailed with God, and God laughes them to ſcorne.</p>
+            <p>But yet for their ſakes that of infirmity doe account <hi>Paul an enemy,</hi> let us uſe a word of exhortation. And here,<note place="margin">Applic. <hi>3.</hi>
+               </note> my bre<g ref="char:EOLhyphen"/>thren, be warned to correct that ſpirit of errour, of judge<g ref="char:EOLhyphen"/>ment miſguided. Let us no more be at enmity with <hi>Paul;</hi> nor diſlike or under-value either grace or learning, or the life that is hid with God in Chriſt (For tis a detraction from the Spirit of God.) But let us highly priſe what God ſets at ſo high a rate.</p>
+            <p>Alas, with what arguments might wee perſwade the af<g ref="char:EOLhyphen"/>fections to love <hi>Paul</hi> and his priviledges? why the very Heathen (who lived in <hi>Paganiſme,</hi> yet) highly reverenced and eſteemed <hi>Learning</hi> and <hi>civill demeanour.</hi> Now then, ſhall we hate (in this kind) what they ſo loved? ſhall <hi>Nature</hi> teach them ſo much? and ſhall not the <hi>ſound of grace</hi> teach us as much? Shame upon us, if we ſuffer them to out-ſtrip us.</p>
+            <p>But what need we looke ſo farre as their example? Let us faſten our eyes upon <hi>Paul,</hi> and with our eares liſten unto his words; heare him ſpeaking an heavenly language, whoſe proper eloquence is ſufficiently tractive, and able to allure: it is the <hi>Truth,</hi> the <hi>Truth of righteouſneſſe,</hi> whoſe lovely worth may diſſwade us from Enmity.</p>
+            <p>Therefore if the <hi>truth</hi> may find any footing in our affec<g ref="char:EOLhyphen"/>tions,<note place="margin">Applic. <hi>4.</hi>
+               </note> let us labour for the cure of ſo irkſome a ſore. Labour we, I ſay, for a cure:<note n="c" place="margin">Nam ſanabi<g ref="char:EOLhyphen"/>libus aegrotamus malis. Sen. de Ira.</note> for we labour (as yet) of a diſeaſe that may be cured. The paſſions of iniquity, (yea the habit of enmity) may be conquered and removed by Gods aſſiſtance, and thine owne diligence.</p>
+            <p>Firſt then, pray for the Spirit of Love;<note place="margin">Meanes to cure enmity.</note> ſo the power of enmity ſhall be diſlodged. Poure out thy cries unto God for ſome heavenly <hi>Spittle</hi> and <hi>Clay,</hi> that thy judgement may be cleared, and thy will ordered, that thou maiſt diſcerne grace from nature, and ſo become a friend to <hi>Paul.</hi> Vrge the Lord; loſe no opportunity: ceaſe no time: leave him not
+<pb n="12" facs="tcp:150656:12"/>till he hath left this <hi>Bleſſing</hi> behind him. Pierce the very hea<g ref="char:EOLhyphen"/>vens with thy ſupplications; be reconciled unto God above: So thou and <hi>Paul</hi> ſhall be no longer at variance.</p>
+            <p>Secondly,<milestone type="tcpmilestone" unit="unspecified" n="2"/> conſider the love of Chriſt unto mankind: he (being not indebted unto man) was content to lay downe his owne life for man. Oh, canſt thou thinke on this his love, and yet be <hi>enmity with Paul,</hi> (his choſen veſſell) or his ſervants? Canſt thou remember the excellent dignities in Chriſt, as grace, wiſedome, &amp;c. and yet contemne them in his Miniſters? Oh, me thinkes, this might winne thee unto amity,<note place="margin">Hoſea 11: 4.</note> and love, to conſider how God hath <hi>drawne us with the</hi>
+               <note n="d" place="margin">Bechauèle Adam. <hi>Heb.</hi>
+               </note> 
+               <hi>cords of a man,</hi> with the<note n="e" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Septu.</note> 
+               <hi>death</hi> of the Sonne of his de<g ref="char:EOLhyphen"/>fires. The undaunted <hi>Diamond</hi> ſcornes to yeeld unto the ſledge and anvill; yet caſt it into the blood of a Goat, and ſtraight way it is diſſolved: ſo thy heart that is hardned with enmity (though it will not yeeld by other perſwaſions, yet) will be moulten all over into love, if thou caſt it into the<note n="f" place="margin">Omnis enim morbus hoc re<g ref="char:EOLhyphen"/>medio extingui<g ref="char:EOLhyphen"/>tar. Aug. <hi>4.</hi> Hom. in Mat.</note> blood of Chriſt Ieſus, that immortall Scape-goat.</p>
+            <p>Thirdly, be at enmity with thy ſelfe a little; doe thy ſelfe this pleaſure,<milestone type="tcpmilestone" unit="unspecified" n="3"/> to ſet thy ſelfe before thy ſelfe, and looke on that part of the <hi>wallet that hangs on thine owne backe:</hi> ſo ſhalt thou divert thine enmity of others upon thy ſelfe: and this is not onely warrantable, but a point of Chriſtianity.</p>
+            <p>It is a fit cure of<note n="g" place="margin">Galen. lib. <hi>5.</hi> de Meth. Med. cap. <hi>3.</hi> Avicen. Fen. <hi>4.</hi> lib. <hi>1.</hi> cap. <hi>1.</hi>
+               </note> 
+               <hi>Haemorages</hi> in Phyſicke, to turne aſide the fluxes of blood by Phlebotomy in ſome other veine; and in mine opinion, I hold it a good ſpirituall cure of En<g ref="char:EOLhyphen"/>mity againſt others, to let the blood of it forth by thine own veines; for many times<note n="h" place="margin">Ex ſpuma dra<g ref="char:EOLhyphen"/>conum veneneta fit Bezoardicum, &amp; ſic ſummum alexiterium ex ſummo veneno conficiunt Chy<g ref="char:EOLhyphen"/>mici.</note> wholeſome Phyſick is made of the ſtrongeſt poiſon; and indeed of this ſharpe Vitreoll (thus diverted) may be made a medicinable Avodyne.</p>
+            <p>And this ſhall be ſo much the better performed, if thou parallel thy ſelfe to others, and compare thine owne wants (I<note n="i" place="margin">Sic parvis com<g ref="char:EOLhyphen"/>ponere magna ſolebam.</note> ſpeake by experience) with others graces. Compare thine owne coldneſſe with the zeale of others, thine owne backwardneſſe (in the faith) with others forwardneſſe; thine owne vanity with others ſanctity; thy owne anger with others patience; thine owne <hi>enmity</hi> with others amity;
+<pb n="13" facs="tcp:150656:12"/>thine owne hypocriſie with others ſincerity; thine owne negligence with others diligence: in a word, thine owne rebellion with the contrition of others. Thy ſelfe being thus throughly ſifted, thou canſt be no longer an enemy un<g ref="char:EOLhyphen"/>to <hi>Paul,</hi> but to thy <hi>ſelfe;</hi> no longer an enemy to the graces of Gods Spirit in others; but to the vices in thy ſelfe.</p>
+            <p>And when thou haſt ſo done,<milestone type="tcpmilestone" unit="unspecified" n="4"/> remove all<note n="k" place="margin">Principiis obſta.</note> occaſions of enmity; and be ſure that thou take not occaſion at the way of godlineſſe: if any externall ſuggeſtion doth ariſe,<note n="l" place="margin">Suffoca matre<g ref="char:cmbAbbrStroke">̄</g>, &amp; non erit filia. Aug. de verb. Dom.</note> croppe it downe in the infancy, for <hi>enmity</hi> is of a ſpreading nature, and the longer it growes,<note n="m" place="margin">Vires ac<g ref="char:EOLhyphen"/>creſcit eunde.</note> the ſtronger it growes. <hi>Leave</hi> once granted unto anger, ſoone drawes on the habit of en<g ref="char:EOLhyphen"/>mity, as the vanity of the eye (entertained) pulls on adulte<g ref="char:EOLhyphen"/>rie. Therefore, when thou haſt (by Gods grace) a little mor<g ref="char:EOLhyphen"/>tified this enmity againſt others, take heed of a new ſupply of <hi>paſſion.</hi> Put the<note n="n" place="margin">Et extinctum cinerem, ſi ſul<g ref="char:EOLhyphen"/>phure tangas, vivet. Ovid.</note> candle (that is newly extinguiſhed) to the match againe and it is ſoone lighted againe: ſo is <hi>Enmity</hi> by the fire of anger or diſlike: Watch and pray therefore leſt ye enter into this temptation.</p>
+            <p>Thus have I prepared ſome good meanes to ſet the <hi>Gala<g ref="char:EOLhyphen"/>tians</hi> and <hi>Paul</hi> at amity: and now, whiles I beginne to enter upon the next part of my Text, viz.<note place="margin">3 Part.</note> 
+               <hi>the perſons</hi> that were at enmity with <hi>Paul,</hi> the <hi>Galatians,</hi> I am almoſt fallen into an<g ref="char:EOLhyphen"/>gry (or zealous) rage againſt them, that they, even his owne<note n="o" place="margin">Duplicat do<g ref="char:EOLhyphen"/>lorem ſuſtinentis, indignitas infe<g ref="char:EOLhyphen"/>rentis. Seneca.</note> hearers ſhould give him occaſion to cry out, <hi>Am I therefore become your enemy, becauſe I tell you the truth?</hi>
+            </p>
+            <p>But how now <hi>Paul,</hi> what ſtrange alteration is this? why, who would have ever thought that theſe <hi>Galatians</hi> would have ſtenched from their <hi>firſt love?</hi> before, they would have <hi>placked out their owne eyes to have done thee good;</hi> now, they count thee an <hi>Enemy.</hi> Alas, had they beene <hi>Sodomites,</hi> or <hi>Gomorrhaeans,</hi> had they beene <hi>Turkes</hi> or <hi>Caniballs,</hi> had they beene diſſolute <hi>Libertines</hi> in their hot-ſpur humours; or ſuch as had beene hitherto ſtrangers to the <hi>Common-wealth of Iſ<g ref="char:EOLhyphen"/>rael,</hi> I would not ſo much marvell; but ſince they were the <hi>Galatians,</hi> thine owne heares, ſuch as among whom thou hadſt laboured, ſuch as ſeemed to have yeelded obedience
+<pb n="14" facs="tcp:150656:13"/>unto thy Miniſtery: I know not what to doe but ſorrow, and ſtand amazed: for alas! that ſame miſery which falls beſides the expectation is moſt ponderous, and intollerable: and the enmity of a familiar, is an<note n="p" place="margin">Nulla peſtis efficacior eſt ad nocendum, quàm familiaris inimi<g ref="char:EOLhyphen"/>cus. Boet. lib. <hi>3.</hi> de Conſol. Propoſ. <hi>2.</hi>
+               </note> unſufferable peſtilence: little did <hi>Paul</hi> thinke that his next welcome ſhould be <hi>Enmity,</hi> or that the former love (pretended) ſhould end in hatred: yet ſo it was then, and ſo is now, that</p>
+            <p>
+               <hi>Sometimes a Miniſters owne hearers are ſet in variance againſt him.</hi> Sometimes, did I ſay? yea, at all times; for time ſtill affords ſome<note n="q" place="margin">Jnimicitiae ſemper concomi<g ref="char:EOLhyphen"/>tantur, &amp;c.</note> 
+               <hi>enemies:</hi> but now eſpecially may <hi>Paul</hi> cry out in the language of God himſelfe, <hi>I have nouriſhed and brought up children, and they have</hi>
+               <note n="r" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> tranſgredi. <hi>Eſay 1.2.</hi>
+               </note> 
+               <hi>rebelled againſt me.</hi> A kind reward God knowes, for all his care: and a recompence more fit for a <hi>Tyrant</hi> then an <hi>Apoſtle:</hi> what! to bee hated! and ac<g ref="char:EOLhyphen"/>counted an enemy? and that of his owne hearers!</p>
+            <p>Oh, that ever <hi>impiety</hi> ſhould perke up the head to this height, that a Miniſter ſhould ſpend his time in ſtudy, night &amp; day; <hi>break</hi> many a quiet ſleep, to break y<hi rend="sup">t</hi> pure word aright unto his people; <hi>poure</hi> out many a bleeding complaint unto his God, for their obſtinacy &amp; rebellion, labor with might &amp; main, tearing his ſides early and late, for their converſion; &amp; yet (for all his pains) be counted an <hi>Enemy, &amp; that of his owne hearers.</hi>
+               <note n="ſ" place="margin">Intolerabile fit malum, cuius autorem turpe ſit confiteri. Sen. Probation.</note> A griefe, ſurely, intollerable to a Preacher, ſince it is a ſhame to an hearer. But ſo it fared with Chriſt himſelfe, (that great Doctor of the Church) though he ſpake as never yet man ſpake; yet hee was hated of his owne hearers, his owne <hi>country-men,</hi> yea of <hi>Iudas</hi> too, (his owne Diſciple:) and for a determinate proofe, ſee <hi>Matt.</hi> 10.36. <hi>A mans enemies ſhall be thoſe of his owne houſe; Iobs</hi> owne <hi>wife</hi> againſt him: <hi>Abſolon</hi> ſeekes his <hi>owne fathers</hi> overthrow: <hi>Iſmael</hi> mockes his owne <hi>brother:</hi> what wonder then, if a <hi>Miniſters owne hea<g ref="char:EOLhyphen"/>rers</hi> oppoſe themſelves againſt him?</p>
+            <p>For was not God himſelfe ſo uſed at his owne childrens hands?<note place="margin">Arg. <hi>1.</hi>
+               </note> 
+               <hi>Eſay</hi> 1.2. <hi>Did not he nouriſh them as his owne?</hi>
+               <note n="t" place="margin">Hoſea 11.4.</note> 
+               <hi>did not he draw them with the bands of love? did not his</hi>
+               <note n="u" place="margin">Ier. 31.20.</note> 
+               <hi>bowells yerne over them? were not his</hi>
+               <note n="*" place="margin">Hoſ. 11.6.</note> 
+               <hi>repentings kindled together for their ſakes? Did he not</hi>
+               <note n="x" place="margin">Amos 3.2.</note> 
+               <hi>know them, above all the nations of the earth?</hi>
+               <pb n="15" facs="tcp:150656:13"/>Yet ſee, now have they rebelled againſt him. What marvell then, though <hi>Paul</hi> be hated as an <hi>enemy,</hi> and Miniſters coun<g ref="char:EOLhyphen"/>ted the<note n="y" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. 1 Cor. 4.9.</note> 
+               <hi>dregs,</hi> and off ſcowring of men? what though they be made the <hi>Brothers of Owles,</hi> and companions of <hi>Oſtriches</hi> in the deſart? A ſatten ſuit becomes not the ſervant, when the maſter muſt goe in canvas: wee muſt not thinke to live (in this life) in any other ſtate then Chriſt himſelfe, our <hi>Lord</hi> and <hi>Maſter.</hi>
+            </p>
+            <p>And tis fit that good Miniſters ſhould have their patience and conſtancy to be proved by ſuch indignities.<note place="margin">Argument <hi>2.</hi>
+               </note> Patience is beſt ſeene, when an affliction fights moſt <hi>cloſely</hi> with the affection: <hi>David</hi> could ſay, if it had beene an open enemy, I could have borne it; but it was thou, my familiar friend, &amp;c. yet God will have his patience ſo tried, by ſetting his owne friends againſt him.</p>
+            <p>So much the rather alſo,<note place="margin">Arg. <hi>3.</hi>
+               </note> becauſe God will not have his Children, and chiefly his Miniſters, to bee too well concei<g ref="char:EOLhyphen"/>ted of their owne gifts and graces. <hi>Vaine glory</hi> and <hi>ſpirituall pride</hi> creepes in with an aſpiring <hi>facility,</hi> and is not eaſily<note n="z" place="margin">Vana gloria eſt ultima Pellis, quae exuitur. Bern.</note> ſhaken out. If we ſhould heare our Auditors cry out of our Sermons, in the language of <hi>Herods</hi> Paraſites, <hi>The voice of God, and not of man;</hi> we might happely be tickled in the eares, and ſo fall into a ſpirituall <hi>whimſey;</hi> wherefore, leſt happely <hi>David</hi> ſhould cry out in the vanity of his heart, <hi>Tuſh, I ſhall never be moved;</hi> the Lord ſets his own familiar friends againſt him, and then he cryed out, <hi>It is good for me that I have beene afflicted:</hi> So leſt <hi>Paul</hi> (through the large knowledge of words unutterable) ſhould have beene exalted <hi>above meaſure,</hi> he received a pricke in the fleſh; and ſee, now his owne hea<g ref="char:EOLhyphen"/>rers are ſet in variance againſt him; But he knowes it to bee as great a priviledge<note n="a" place="margin">Agere &amp; pati, fortia. <hi>Phil. 2.29.</hi> Arg. <hi>4.</hi>
+               </note> to ſuffer, as beleeve.</p>
+            <p>Laſtly, a Miniſters owne hearers are ſet in variance againſt him, that<note n="b" place="margin">Vt lapſu gra<g ref="char:EOLhyphen"/>viore ruant. <hi>Mat. 23.32.</hi> Jngratum ſi di<g ref="char:EOLhyphen"/>cas, omnia di<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> they might brand themſelves out for perſecutors of the <hi>Truth,</hi> and ſo fill up the meaſure of their ſinnes. The perſecution of the <hi>Truth</hi> is the <hi>Epitome</hi> or <hi>Abridgement</hi> of all other ſinnes: for tis ingratitude in an high degree. Give me a perſecutor of the <hi>Truth,</hi> and give mee a complete ſin<g ref="char:EOLhyphen"/>ner.
+<pb n="16" facs="tcp:150656:14"/>We reade of but <hi>two</hi> that ever were recovered, as far as I remember, <hi>Manaſſes</hi> and <hi>Paul.</hi> Therefore I had rather ſee a man (I thinke I may ſpeake with a ſafe conſcience) com<g ref="char:EOLhyphen"/>mit any other ſinne, then perſecute the <hi>Truth:</hi> for this ſinne ever comes neareſt unto the ſinne againſt the <hi>Holy Ghoſt;</hi> if it be not the ſame: and indeed (when it is not (alwayes) <hi>whol<g ref="char:EOLhyphen"/>ly</hi> the ſame, yet) it is ever a<note n="c" place="margin">Alſted, in Lexico.</note> 
+               <hi>branch</hi> of it: and by this doe wicked men marke out themſelves for rebells, yea for the de<g ref="char:EOLhyphen"/>ſtruction to come.</p>
+            <p>So for theſe ends (call them arguments if you will) does God ſuffer his Miniſters, in the meane ſpace, to be oppoſed.</p>
+            <p>But in this meane ſpace <hi>Paul,</hi>
+               <note place="margin">Applicat. <hi>1.</hi>
+               </note> and many of us <hi>Pulpit-men,</hi> may take up the complaining lamentation of the Prophet <hi>David;</hi>
+               <note n="d" place="margin">Pſal. 120.5, 6.</note> 
+               <hi>Woe is me, that I ſojourne in Meſech, and dwell in the Tents of Kedar: my ſoule hath long dwelt with thoſe that hate peace.</hi> And we may juſtly take up his Motto (too) <hi>I am for peace;</hi> yet whiles we ſpeake they are for warre: and they (even our owne hearers) account us enemies, <hi>for telling the truth.</hi> But ſee and heare, O heavens; and hearken, O earth: ſtand amazed, O heavens; and be dumbe, O earth; yea, bee abaſhed at this ye ſonnes of men, that the glory of the Al<g ref="char:EOLhyphen"/>mighty ſhould bee turned into obloquy; and the Iſrael of God ſhould lay an aſperſion of enmity upon her owne A<g ref="char:EOLhyphen"/>poſtles. But what? does the enmity of familiars ſuggeſt ſuch a wonder, or exaſperate the griefe? why then, why wander I in ſo generall or circular an application, as to goe to <hi>Iſrael,</hi> or <hi>Galatia</hi> for an inſtance? Come, my brethren, from your<note n="e" place="margin">Nocturnus iuvat impalleſce<g ref="char:EOLhyphen"/>re chartis.</note> 
+               <hi>nightly ſtudies,</hi> and ſee our Land divided againſt it ſelfe: ſee it hating and deſpiſing government: ſee it ſpur<g ref="char:EOLhyphen"/>ning againſt her owne<note n="f" place="margin">Per iram con<g ref="char:EOLhyphen"/>cordia rumpi<g ref="char:EOLhyphen"/>tur; per iram lux veritatis amittitur. Greg. lib. <hi>3.</hi> moral.</note> 
+               <hi>light;</hi> (what if I ſay againſt our owne eyes?) The<note n="g" place="margin">Heb. 2.3.</note> 
+               <hi>great ſalvation</hi> is now proclaimed, but we love the workes of death. The Sunne of the Goſpell, the word of <hi>truth,</hi> is now riſen<note n="h" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Clem. Alex.</note> upon us all, but wee love darkneſſe more then light.</p>
+            <p>Some Travellers have laid this imputation of obſcurity upon our Land, our <hi>England,</hi> that the heaven above us is ever<note n="i" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>lowring;</hi> and the Sunne a ſtranger to our eyes, and the
+<pb n="17" facs="tcp:150656:14"/>reaſon thereof, Becauſe we are encompaſſed with the Sea, from whence, there is a daily Exhalation of clouds, interpo<g ref="char:EOLhyphen"/>ſing themſelves (in our Horizon) betweene the light of the Sun and our ſight. Now God grant that their <hi>Geography</hi> bee without a myſtery. I ſeare leſt our light of the Goſpell be ob<g ref="char:EOLhyphen"/>fuſcated with the aſſiduous clouds of enmity, ariſing from the ſea of anger. We muſt needs confeſſe, that (as the Sun, ſo) the Goſpell is<note n="k" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> pure and cleare, and devoid of all cloudy matter; yet, becauſe our affections anſwer not its puritie, and our owne profeſſion; it ſeemes obſcure unto us, and wee account them <hi>enemies</hi> that bring it unto us.</p>
+            <p>But why doe I combat in the ſpacious field? and tell you a generall ſtory of the Home-bred diſſentions of our State and kingdome, between our own <hi>light</hi> &amp; our own <hi>ſight?</hi> why doe I not rather ſpeake the phraſe of inine Apoſtle, <hi>Am I therefore become your enemy, becauſe I tell you the truth?</hi> No, in no wiſe; yet I am become an enemy (in your acceptations) unto you, and that <hi>becauſe I tell you the truth.</hi> Thus, is not the caſe belonging to you, and mee, and all Gods faithfull Miniſters? Are wee not hated of you, as though wee were your enemies? and nicked of you with the <hi>twits</hi> of enmity? is not our <hi>zeale</hi> accounted <hi>phrenſie,</hi> and the <hi>ſincerity</hi> of prea<g ref="char:EOLhyphen"/>ching rather an <hi>auſterity</hi> of paſſion, then the <hi>purity</hi> of the Truth? Say, O ye people, is it not even thus? Can you de<g ref="char:EOLhyphen"/>ny it for very ſhame?</p>
+            <p>Bluſh then, and be aſhamed at this,<note place="margin">Applicat. <hi>2.</hi>
+               </note> all ye that live under a painfull Miniſtery, yet account it a matter of <hi>enmity</hi> unto you: yea, quake and tremble, ye that malipertly oppoſe your ſelves againſt thoſe that watch for your ſoules: for ſurely this is next the ſin that is unpardonable.</p>
+            <p>I am afraid, leſt many in our Nation beare a ſhare in the danger of this doome; as wee beare a part in the in jury of their enmity. We may indeed juſtly complaine of the thwar<g ref="char:EOLhyphen"/>ting oppoſition of many, as well as boaſt of the teachable forwardneſſe, the zealous and loving affections of others to us-wards. But all indignities whatſoever let us freely paſſe over and forgive; as we truſt all our owne imperfections are
+<pb n="18" facs="tcp:150656:15"/>really pardoned of the Almighty. Let our prayer for them be <hi>Father, forgive them;</hi> and I would to God wee could con<g ref="char:EOLhyphen"/>clude with the voice of Chriſt, <hi>They know not what they doe.</hi> But, alas, our Nation knowes the <hi>Truth;</hi> (I know no<note n="l" place="margin">Haec conſcia numinis aetas.</note> plea for ignorance in theſe daies) they have both ſeene and heard; and yet have impudently and malipertly ſpurned againſt their owne <hi>Lights,</hi> and that in the face of the Law, and Goſ<g ref="char:EOLhyphen"/>pell. Therefore it is to be feared, that their ſinne remaines. But what? ſhall they ſo paſſe? with ſo ſlender a rebuke? What if we bid? <hi>Twiſt</hi> up a comtemptuous <hi>Abſalom: Cry?</hi> Out with the ſcoffing <hi>Iſmael:</hi> Hang the rebellious traytor: ſcourge thoſe <hi>Iannes</hi> and <hi>Iambres:</hi> out with the aking-teeth of the <hi>Galatians:</hi> ſpare not <hi>Pauls</hi> enemies: but yet, I hope, we ſhall not erre with too much gentleneſſe, if wee give way to affection, and as patiently put off the injury of en<g ref="char:EOLhyphen"/>mity, as <hi>Eli</hi> did the offence of his ſonnes, in this ſparing cor<g ref="char:EOLhyphen"/>rection; <hi>doe ſo no more, my ſonnes.</hi> And let us take heed wee doe ſo no more, <hi>we hearers:</hi> for tis as great a matter, as the hating of a mans father or mother. (Our Miniſters are fa<g ref="char:EOLhyphen"/>thers to beget us, and mothers to beare us.) Now the <hi>eye that</hi>
+               <note n="m" place="margin">
+                  <hi>Prov. 30.17.</hi> —Scelus eſt adiſſe parentem; hic amor eſt odio maius ſcelus. Ovid. Met. Applic. <hi>3.</hi>
+               </note> 
+               <hi>mocketh his father, or deſpiſeth his mother, the Ravens of the valley ſhall picke it out; and the young Eagles ſhall eate it.</hi> Therefore, receive ye a word of exhortation and warning.</p>
+            <p>Let there be no more variance betweene <hi>Paul</hi> and his <hi>Ga<g ref="char:EOLhyphen"/>latians;</hi> betweene us and Gods <hi>Ambaſſadours:</hi> but have them in ſingular honour (not ſo much for any worth that is in them, but) for their workes ſake; as thoſe that muſt give account for your ſoules, that they may doe it with joy, and not with griefe. Oh, let not their care be requited with enmity, nor their love with hatred: regulate your affections either to their office or diligence, and you ſhall find that ſuch diſcourteſie is neither the <hi>equall deſert</hi> of the one, nor a <hi>fit recompence</hi> of the other. If we enquire after their dilige<g ref="char:cmbAbbrStroke">̄</g>ce, we may caſt backe our eyes no further then <hi>Paul;</hi> if after the dignity of their office, we may looke thorow the volume of the whole Booke of God, and wee ſhall find their office no place of <hi>underlings,</hi> but the<note n="n" place="margin">2 Cor. 5.20.</note> 
+               <hi>Ambaſſadors</hi> of the great God,
+<pb n="19" facs="tcp:150656:15"/>yea<note n="o" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, 1 Cor. 3.9.</note> 
+               <hi>fellow-workers</hi> with him. Such, and ſuch glorious titles hath he vouchſafed to grace them withall: all which excel<g ref="char:EOLhyphen"/>lencies carry in them a <hi>command</hi> of acceptance, and not an <hi>occaſion</hi> of variance. Yet many times it ſo falls out, that their beſt welcome is but a checke of <hi>enmity.</hi>
+            </p>
+            <p>But be not diſmayed, nor quite caſt downe,<note place="margin">Applic. <hi>4.</hi>
+               </note> O ye ſweet<g ref="char:EOLhyphen"/>ſingers of <hi>Sion;</hi> though happely your owne hearers oppoſe themſelves againſt you; though they become your enemies, among whom ye have broken the bread of life; and diſtil<g ref="char:EOLhyphen"/>led the ſweet <hi>influences</hi> of the water of life: though they fill you with<note n="p" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> amaritudinibus. <hi>Lament. 3.15.</hi>
+               </note> 
+               <hi>bitterneſſe,</hi> among whom you have waſted your ſpirits (like the candle) to give them light. Yea, though the goodly ſhewes of ſome have promiſed a <hi>birth</hi> of love and <hi>growth</hi> of faith, yet by and by have<note n="q" place="margin">Exitus auſpi<g ref="char:EOLhyphen"/>cio gravior. Ovid.</note> turned into <hi>Apoſtacy:</hi> nay further, they themſelves become your enemies too: yet ſing no <hi>Paelinede</hi> of diſcontent; murmure not at your porti<g ref="char:EOLhyphen"/>on; but conſider,</p>
+            <p>That (as in the dayes of <hi>Iohn,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> ſo now) there are a <hi>genera<g ref="char:EOLhyphen"/>tion of Vipers.</hi> The<note n="r" place="margin">Et ſic, à ſuo, quem ventre concipit, faetu necatur. Parad. Symb.</note> Viper (we reade) cates her way forth by the belly of the damme: no marvell then, if the Prophet of God (thorow the malice and enmity of his hearers) cry out, <hi>O my belly, my belly, I am pained at the very heart:</hi> and no marvell, if we ſuffer the like ingratitude of our hearers.</p>
+            <p>Eſpecially,<milestone type="tcpmilestone" unit="unspecified" n="2"/> if we conſider how <hi>Ieſus Chriſt</hi> the righteous hath traced out this path before us; hated even of his owne diſciple. Oh then let us<note n="ſ" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Baſil. pag. <hi>139.</hi>
+               </note> walke this Kings <hi>high-way</hi> with patience: for we have not onely the comfort of his compa<g ref="char:EOLhyphen"/>ny, (yet that may aſſwage the miſery) but his aſſiſtance alſo. Nay further, he not onely<note n="t" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> ſuffers the like with us, but alſo meaſures our ſuffering, and (in a meaſure) ſuffers it too. Ex<g ref="char:EOLhyphen"/>ceeding full of comfort are the words of our Saviour Chriſt: <hi>he that deſpiſeth you, deſpiſeth me, and he that deſpiſeth mee, de<g ref="char:EOLhyphen"/>ſpiſeth him that ſent me.</hi>
+            </p>
+            <p>Nor is the worthineſſe of the cauſe,<milestone type="tcpmilestone" unit="unspecified" n="3"/> one of the lighteſt mo<g ref="char:EOLhyphen"/>tives that may induce us unto patience. Tis an honourable quarrell wherein we ſuffer: tis for a glorious end, even the ſalvation of our ſoules. For, does not our<note n="u" place="margin">Solatur con<g ref="char:EOLhyphen"/>ſcientia &amp; finis. Melph.</note> conſcience know,
+<pb n="20" facs="tcp:150656:16"/>that the love of the <hi>truth</hi> conſtraineth us? and that this dig<g ref="char:EOLhyphen"/>nity excelleth all dignities, to ſuffer for the <hi>Truth,</hi> for <hi>telling the Truth?</hi>
+               <note place="margin">4 Part.</note> which is the next and laſt part of the Text, viz. <hi>The Cauſe of the Enmity, for Telling the Truth;</hi> which like<g ref="char:EOLhyphen"/>wiſe craves my paines, and your patience.</p>
+            <p>
+               <hi>Am I therefore become your enemy, becauſe I tell you the truth?</hi> or becauſe I play the <hi>Tell-troth</hi> with you?<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> yea; this is the cauſe of your enmity, or elſe you have no cauſe at all. Alas, is this the cauſe? why, this, of all others, ſeemes to bee a cauſe without a cauſe. What, to hate a man for telling the <hi>Truth!</hi> Could they have upbraided him of ſome capitall <hi>crime,</hi> either of whoredome, or drunkenneſſe, or oppreſſion, or covetouſneſſe, or the like, the matter had beene colou<g ref="char:EOLhyphen"/>rable: Or, had any part about him received any<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>apparent ſtaine</hi> or blemiſh; had his tongue beene curſing and ſwea<g ref="char:EOLhyphen"/>ring; his lips, lying and prophane; his hands, thieviſh; his heart, malitious; or his eyes laſcivious; it had beene ſome<g ref="char:EOLhyphen"/>thing to the purpoſe: but, to hate him for telling the <hi>Truth,</hi> argues no ſimple ignorance in them, but a ſinfull-rebellious impudence. And this is but one of<note n="x" place="margin">2 Chron. 135, &amp;c.</note> 
+               <hi>Ieroboams</hi> trickes: he hated <hi>Abijah</hi> for his good counſell; and theſe <hi>Galatians</hi> count <hi>Paul</hi> an enemy unto them, <hi>for telling the Truth.</hi> So, we ſee here the Proverbe verified, the lovely<note n="y" place="margin">Veritas odium parit, ſed tamen non eſt odioſa. Calvip. in Galat. Propoſ. <hi>3.</hi>
+               </note> 
+               <hi>Truth brings forth hatred;</hi> and<note n="z" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Philo. de vita Moſ. lib. <hi>3.</hi>
+               </note> 
+               <hi>The publication of the pure word of truth ſets faithfull Miniſters and corrupt hearers at variance.</hi> Hence pro<g ref="char:EOLhyphen"/>ceed thoſe broiles: hence, this enmity: hence, this diſſen<g ref="char:EOLhyphen"/>tion. But bluſh, and be aſhamed at this, yee <hi>Galatians,</hi> that the revelation of <hi>Truth</hi> ſhould breed ſuch deepe diſlike in you. Alas, with what ſtraine of words or matter might <hi>Paul</hi> ſtudy to pleaſe you? If you looke for <hi>plainneſſe of ſpeech;</hi> why, ſee him ſtooping to the capacity of the mea<g ref="char:EOLhyphen"/>neſt, becomming <hi>all things to all men.</hi> If you looke for elo<g ref="char:EOLhyphen"/>quence from him; why, ſee it ſo mixt with his Divinity, that tis hard to judge wherein he moſt excells. But none of theſe diſturbes you: tis the matter that occaſions your hatred; <hi>the telling of the Truth.</hi>
+            </p>
+            <p>Many in our dayes, though they love the truth after a
+<pb n="12" facs="tcp:150656:16"/>ſort, yet (thorow<note n="a" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Talm. in Maſor.</note> opinions) doe diſlike it, if it appeare plain or eloquent: but theſe fooliſh <hi>Galatians</hi> (and they were<note n="b" place="margin">Bonos, quis, niſi ſtultiſſimus oderit. Boet. lib. <hi>1.</hi> de Conſ.</note> 
+               <hi>fooles</hi> indeed) hate <hi>Paul</hi> for (very) telling the <hi>Truth.</hi> But what, if <hi>Paul</hi> had come among them, with his mouth full of lies, and told them a ſmooth <hi>tale</hi> of their ſecure eſtate, though they did live after the fleſh? yet ſurely, they would ſcarce have beleeved him: and will they hate him for telling the <hi>Truth? O fooliſh Galatians, who hath bewitched you that you ſhould not obey the Truth?</hi> Can neither <hi>Lyes</hi> nor <hi>Truths</hi> pleaſe you? Surely thoſe (though pleaſant, yet) ſeeme doubtfull, if not miſerable; and theſe (though certaine, yet) ſeeme irkeſome, if not damnable. Thoſe tickle the eare, but ſuſ<g ref="char:EOLhyphen"/>pend the conſcience; theſe ſuſpend the underſtanding, but wound the conſcience: therefore neither theſe, nor thoſe can gaine their acceptance. Yet if <hi>Paul</hi> would have runne to the ſame <hi>exceſſe ofriot</hi> with them, and have propheſied of <hi>ſtrong drinke,</hi> hee might happely have beene a <hi>Prophet</hi>
+               <note n="d" place="margin">Micah 2.11.</note> 
+               <hi>for their turne;</hi> &amp; have gotten a ſpirt of love from ſome of them: but let him tell the <hi>Truth,</hi> and hee is accounted an <hi>enemy</hi> for it. Which truth,<note place="margin">Probation.</note> our Saviours words put out of all que<g ref="char:EOLhyphen"/>ſtion or doubt;<note n="e" place="margin">Mat. 10.34.</note> 
+               <hi>Thinke ye that I am come to ſend peace on earth? I come not to bring peace, but a ſword; to ſet a man at variance againſt his father; the daughter againſt her mother, and the daughter-in law againſt her mother in law.</hi> And this was veri<g ref="char:EOLhyphen"/>fied in Chriſt himſelfe, <hi>Ioh.</hi> 8.40. <hi>Ye ſeeke to kill a man that hath told you the truth.</hi> And,<note n="f" place="margin">verſ 45.</note> 
+               <hi>becauſe I tell you the truth ye be<g ref="char:EOLhyphen"/>leeve me not;</hi> but rather hate me. But tis no more wonder to ſee the Dogs barke at the Moone, then to ſee a good Mini<g ref="char:EOLhyphen"/>ſter hated for telling the <hi>Truth:</hi> and the truth of this truth ſhall ſeeme the rather to bee a truth, if wee regard theſe de<g ref="char:EOLhyphen"/>monſtrations.</p>
+            <p>Firſt,<note place="margin">Arg. <hi>1.</hi>
+               </note> there is a palpable diſagreement betweene <hi>truth</hi> and falſhood; grace and corruption: the one is light, the other darkneſſe: the publication then of the one muſt needs make the <hi>Antitheſis</hi> of the other. <hi>God</hi> and <hi>Belial</hi> cannot ſtand together: and is it any newes to ſee the diſagreeing <hi>qualities</hi> of fire and water, each hiſſing at other? nor, for
+<pb n="22" facs="tcp:150656:17"/>mine own part doe I ever marvell to ſee good men, and bad; wiſe men, and fooles; knaves, and honeſt men, to fall at oddes, when I reſpect the contrarietie of their natures.</p>
+            <p>Eſpecially,<note place="margin">Argum. <hi>2.</hi>
+               </note> if I conſider the nature of the <hi>Truth:</hi> how ſearching and working it is: what a powerfull operation it hath, to divide (like a<note n="g" place="margin">Heb. 4.12.</note> 
+               <hi>two-edged ſword</hi>) <hi>betweene the bone and the marrow.</hi> The letter<note n="h" place="margin">
+                  <hi>Iudg 12.6.</hi> Shibboleth. Sibboleth.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>(Schin)</hi> could never make a more perſpicuous difference betweene the <hi>Gileadite</hi> and the <hi>Ephraimite,</hi> then the <hi>Truth</hi> does betweene good Miniſters and corrupt hearers. <hi>Truth</hi> is both an eye to ſee; and a glaſs to convay the object unto the ſight. But as the Optickes have many crotchets and deceiving <hi>fractions</hi> to beguile the corporall eye: ſo hath <hi>Hypocriſie</hi> many formes of godlineſſe to deceive and bleare the mentall: yet <hi>Truth</hi> does execute its office ſo ſquarely, that it will not ſuffer us to make<note n="i" place="margin">Anaxagoras <hi>dreamed that there was</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>to make</hi> quidlibet ex qualibet.</note> 
+               <hi>Any thing of any thing:</hi> but it ſoone diſtinguiſhes the good from the bad; the right from the wrong. Our colourable ſinnes can now finde no <hi>burrow</hi> of ſhelter, or evaſion: but <hi>Truth</hi> doth <hi>anatomize</hi> all the<note n="k" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Spi<g ref="char:EOLhyphen"/>nam dorſi ſcin<g ref="char:EOLhyphen"/>dere, ita ut in<g ref="char:EOLhyphen"/>tima pateant. Argum. <hi>3.</hi>
+               </note> ſecrets of the heart, and make them naked and bare-fac'd: no marvell then, if it breed diſſention, enmity, and variance.</p>
+            <p>Thirdly, <hi>Truth</hi> takes away freedome, and cuſtome in ſin:<note n="l" place="margin">Auguſt. Greg.</note> it proves the one, to be ſlavery; the other, an old errour: it diſturbs a man of his ſweet naps in iniquity: it removes him from the bed of vanity: it ſuffers him not to ſin ſo qui<g ref="char:EOLhyphen"/>etly as otherwiſe he would: it ſtings him by the conſcience, amidſt his pleaſures, that he cannot walke on his iourney to <hi>Hell-wards</hi> contentedly enough; no marvell them, if it bee the occaſion of ſtrife and enmity. Wake a man out of a ſound ſleepe, and ſtraight way he fumes: ſpur a <hi>gaul'd-backe Iade,</hi> and preſently ſhe winces: ſo let the <hi>Truth</hi> ſpeake the <hi>Idiome</hi> of her owne <hi>Dialect,</hi> unto the conſcience of a corrupt hearer, that is faſt aſleepe in his ſin; and be ſure, her language ſhall bee counted opprobrious, and her requitall ſhall bee enmity.</p>
+            <p>The truth whereof, bids us not wonder to ſee the <hi>Truth</hi> oppoſed by corruption:<note place="margin">Applicat. <hi>1.</hi>
+               </note> looke not that the publication of it
+<pb n="23" facs="tcp:150656:17"/>ſhould bring peace, or rocke us aſleepe (with a <hi>Lullaby</hi>) in the Cradle of ſecurity: for the<note n="m" place="margin">Sermo non eſt ſapiens, qui non pungit. Hier. in Eccleſiaſt.</note> 
+               <hi>Truth</hi> is of a pricking na<g ref="char:EOLhyphen"/>ture: it ever carries a ſword in its hand; and makes a divi<g ref="char:EOLhyphen"/>ſion betweene light and darkneſſe, grace and corruption. Its owne nature (by the ſtrength of its owne activity) ſtrikes home unto the conſcience; unbowells the ward-rope of tranſgreſſion; like a<note n="n" place="margin">Praedicantium verba ſcintillae rectè appellatae ſunt; quia eos, quos in corde tetigerint, incen<g ref="char:EOLhyphen"/>dunt. Greg. in Ezech. Hom. <hi>3.</hi>
+               </note> flame, makes the ſpirit to burne with<g ref="char:EOLhyphen"/>in a man; ſhewes him the right way; informes him of the wrong; <hi>curbs</hi> him of his ſweet ſin; opens an <hi>Handwriting</hi> againſt him, whoſe <hi>character</hi> are ſteeped in blood and hea<g ref="char:EOLhyphen"/>vineſſe; neither does it reade the ſinner a lecture in a private <hi>Kennell,</hi> as if it durſt not ſhew its face, ſave onely in a<note n="o" place="margin">Veritas non quaerit angulos.</note> corner, but ſpeakes to the noſe of the proudeſt Vaſſaile, that carries about him a body of ſinne. This will make the <hi>Drunkard</hi> quake in his ſeate; the <hi>Whoremonger</hi> tremble on the bed of vanity; the ſwearer, the lyar, the Sabbath breaker, to mourn for their profaneneſſe. No ſinne is exempt from the reach of <hi>Truth.</hi> This controules the <hi>brazen-faced</hi> ſinnes of the land: this rips up the ſinne that is unſeene: private omiſſions, ſleighty perfomances of holy duties, outward conformities, lip-ſervices, neutralities, worldly correſpondencies. Tis like unto the lightning, nimble and active; runnes thorow all created bodies: examines the weakeſt;<note n="p" place="margin">Infringit ſolido.</note> pierces the ſtron<g ref="char:EOLhyphen"/>geſt; purſues all to their very lurking places:<note n="q" place="margin">Conſequitur, quodcun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> petit.</note> findes what<g ref="char:EOLhyphen"/>ſoever and whomſoever it ſeekes for: as the Hypocrite, the Apoſtate, and the covetous worldling.</p>
+            <p>This (like the lightning) wounds, and never touches; breakes a mans bones, (yea his conſcience) and never ſcareth his skinne: like a noyſome ſmell, onely with the ſent, ſoone caſts downe a <hi>queaſie</hi> ſtomacke. This is that our fine mouths cannot<note n="r" place="margin">Offendit omne, quod nolumus. Hier. ſuper bunc verſum.</note> endure to taſte: this it is, that our <hi>ſore gummes</hi> can<g ref="char:EOLhyphen"/>not endure to be rubbed withall: and becauſe wicked men (out of an <hi>over-reaching</hi> apprehenſiveneſſe) doe conceive this to be an enemy unto them; they would faine have the mouth of it ſtopped, &amp; the preachers of it to be doomed un<g ref="char:EOLhyphen"/>to a perpetuall ſilence. So the <hi>Truth</hi> is now become like an hurtfull Serpent, generally invading a whole country, eve<g ref="char:EOLhyphen"/>rie
+<pb n="24" facs="tcp:150656:18"/>wicked mans <hi>club of malice</hi> is out againſt it, as againſt an enemy.</p>
+            <p>But oh that ever the <hi>Truth,</hi> which is the onely meanes of love, ſhould bee now the cauſe of ſuch enmity! that ever this ſhould ſet good <hi>Paul</hi> and his <hi>Galatians</hi> at variance! oh, but the <hi>Truth</hi> is<note n="ſ" place="margin">Veritas dulcis eſt, &amp; amara: quandò dulcis eſt, parcit; quan<g ref="char:EOLhyphen"/>dò amara, curat. Aug. ad Chri<g ref="char:EOLhyphen"/>ſtian. Applic. <hi>2.</hi>
+               </note> ſweet and ſowre; as various in operation as the Sunne, which diſſolves ſome things, as <hi>Wax:</hi> but ex<g ref="char:EOLhyphen"/>ſiccates or dryes up others, as <hi>Clay:</hi> So the <hi>Truth</hi> dryes up the humour of enmity in ſome: in others, it dilates and ſpreades it abroad. Such is the qualitie of the <hi>Truth;</hi> ſuch the portion.</p>
+            <p>And why ſhould we be diſmayed; we, who in the Mini<g ref="char:EOLhyphen"/>ſtery ſuffer for the <hi>Truth?</hi> O let the dignity of the cauſe make us put up the indignity of the croſſe with an <hi>honou<g ref="char:EOLhyphen"/>rable ſcorne:</hi> ſo ſhall the <hi>Truth</hi> grow ſtrong with a<note n="t" place="margin">Vireſeit vul<g ref="char:EOLhyphen"/>nere virtus.</note> wound. Conſider we, that tis the <hi>cauſe,</hi> and not the <hi>quarrell,</hi> that makes a Martyr: tis not ſuffering, but <hi>ſo ſuffering,</hi> or ſuffe<g ref="char:EOLhyphen"/>ring for the <hi>Truth,</hi> that helpes us to heaven.<note n="u" place="margin">Simul iſta mundi rector Deus poſuit, odi<g ref="char:EOLhyphen"/>um at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> regnum. Odia, qui ni<g ref="char:EOLhyphen"/>miùm timet, regnare neſcit. Seneca.</note> Our king<g ref="char:EOLhyphen"/>dome muſt be gotten with ſuch violence as this. Let this then comfort us, that we ſuffer in a good cauſe, for the <hi>truth,</hi> and the crowne of our conqueſt is kept with God.</p>
+            <p>Therefore for this holy <hi>truth</hi> let me reſolve to dye, to loſe my life, my liberty, (were I worth thouſands) lands, and livings, all. Oh, this holy <hi>truth,</hi> let me embrace it ever; and let the world count me an enemy unto them, and bee at va<g ref="char:EOLhyphen"/>riance with me, whiles he that<note n="*" place="margin">Sedens in coe<g ref="char:EOLhyphen"/>lis ridet.</note> ſits in the heavens laughes them to ſcorne, and bids<note n="x" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Talmud.</note> a ſorrow to them, as many as (ma<g ref="char:EOLhyphen"/>liciouſly) <hi>have evill will at Sion.</hi>
+            </p>
+            <p>Thirdly, let us intreat wicked men to receive a friendly admonition, that they be better adviſed hereafter, then to make the publication of the pure word of <hi>truth</hi> the occaſion of contention; to be a ſtumbling blocke and a rocke of of<g ref="char:EOLhyphen"/>fence &amp; variance, to count <hi>Preachers</hi> enemies for telling the <hi>truth.</hi> But alas! our times and people are grown emulous to be ſuperlative in this <hi>enmity;</hi> for we exceed the Papiſts a de<g ref="char:EOLhyphen"/>gree: they counted this <hi>truth</hi> to bee a matter of<note n="y" place="margin">Eckius. Pighius. Hoſier. Gretſer.</note> 
+               <hi>debate;</hi> ſo doe we: they accounted it to be but <hi>Inken Divinity:</hi> but we
+<pb n="25" facs="tcp:150656:18"/>repute it <hi>Inken enmity;</hi> and ſo beflout the ſincerity of it with the <hi>ſcumme of Puritaniſme</hi> in the loweſt degree of our <hi>diſ<g ref="char:EOLhyphen"/>dainfull teene.</hi> This is growne now the uſuall<note n="z" place="margin">Doctor <hi>Airy</hi> on 3 of Phil. verſ 9.</note> companion of a <hi>Chriſtian Profeſſion,</hi> yet <hi>hypocriſie</hi> hath learned to ſpin a finer threed of Enmity againſt the <hi>truth,</hi> then a groſſe hatred, and this is a <hi>ſecret diſlike</hi> of the way of <hi>truth,</hi> (yet an outward <hi>comparting</hi> with it) and this is a damnable<note n="a" place="margin">Graviſſimum inimicitiae genus, eſſe corde adver<g ref="char:EOLhyphen"/>ſarios, &amp; linguae ſimulare devotos. Caſſ. ſup. Pſal <hi>54.</hi>
+               </note> 
+               <hi>neutralitie</hi> (as it were) betweene enmity and amity. Such <hi>Ambo dexters</hi> have wee in the Church; ſuch <hi>Antickes</hi> in the way of <hi>truth,</hi> that are not wholly for God, nor wholly for the devill. Some affinity they have with the <hi>truth,</hi> in the name of Chriſtiani<g ref="char:EOLhyphen"/>tie, like the<note n="b" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Jdol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Deus.</note> 
+               <hi>Hebrew words</hi> for <hi>God,</hi> and <hi>Idolls,</hi> yet they are but (like <hi>Ephraim</hi>) as <hi>cakes on the hearth not turned,</hi> ſhuffling and cutting with the <hi>truth,</hi> (as the Sun in <hi>Hezechiahs</hi> time,) yet never more certaine, then in their enmity of the <hi>truth.</hi>
+            </p>
+            <p>But draw hither,<note n="c" place="margin">Iſay 57.4.</note> all ye enemies of the <hi>truth, ye ſons of the ſorcereſſe, the ſeed of the adulterer and whore: againſt whom doe yee ſport your ſelves? againſt whom doe yee make a wide mouth? and draw out the tongue? Are yee not children of tranſgreſſion, and a ſeed of falſhood?</hi> doe ye not ſpurne at the Lord, and de<g ref="char:EOLhyphen"/>ride his <hi>truth?</hi>
+            </p>
+            <p>But now for a <hi>good</hi> in the ſide, and a motive in the heart, that might ſtirre up the affection to the love of the <hi>truth.</hi> But what? muſt we beg favourites for the <hi>truth?</hi> Cannot its owne worth ſpeake for it? Oh that its excellency could be ſeene with our corporall eyes, then (with a ſilent orato<g ref="char:EOLhyphen"/>rie<note n="d" place="margin">Mirabilem amorem excitae<g ref="char:EOLhyphen"/>ret ſui.</note> would it perſwade our affections to embrace it. Alas, the <hi>knowne ale</hi> needs no <hi>ſigne-poſt,</hi> and the<note n="e" place="margin">Vendibile vi<g ref="char:EOLhyphen"/>num non eget bederâ.</note> 
+               <hi>vendible wine no Ivy buſh;</hi> and ſhall the <hi>truth</hi> need more enticing arguments, then its owne worth?</p>
+            <p>Firſt then conſider its dignity; tis borne of God,<milestone type="tcpmilestone" unit="unspecified" n="1"/> of an immortall ſtampe; tis the rule of our beleeving; our<note n="f" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>doc<g ref="char:EOLhyphen"/>trine,</hi> our<note n="g" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note> 
+               <hi>law.</hi>
+            </p>
+            <p>Secondly the majeſty of it;<note n="h" place="margin">Deus eſt ve<g ref="char:EOLhyphen"/>ritas ſine fallae<g ref="char:EOLhyphen"/>cia. Hugo de anima.</note> 
+               <hi>God is truth:</hi> if then we bee at enmity with the <hi>truth,</hi> wee are at enmity with <hi>God:</hi> love the <hi>truth,</hi> and love <hi>God;</hi> hate the <hi>truth,</hi> and hate <hi>God</hi> him<g ref="char:EOLhyphen"/>ſelfe. And now I pray you, doth it boot a Child to fight
+<pb n="26" facs="tcp:150656:19"/>with a Giant? or an earth-worme to contend with the Al<g ref="char:EOLhyphen"/>mighty? Me thinkes when I ſee a man at enmity with the <hi>truth,</hi> I ſee the<note n="i" place="margin">Olaus Magnus, Epiſc. <g ref="char:V">Ʋ</g>pſ. l. de ritibus Gent. lib. <hi>3.</hi>
+               </note> 
+               <hi>Gothi</hi> (with their Ioviall mallets) thumping their brazen fabricke, to fright away the <hi>thunder,</hi> for when it thunders, they imagine ſome ſtrange god is comming in battellagainſt them: So wicked men, when they heare the <hi>truth</hi> once, they beginne to muſter their forces (as againſt an enemy) to out-face it, if they may. But alas! tis the God of<note n="k" place="margin">Tantam po<g ref="char:EOLhyphen"/>tentiam veritas ſemper habuit, ut nullis machi<g ref="char:EOLhyphen"/>nis, aut cuiuſ<g ref="char:EOLhyphen"/>quam hominis ingenio, aut arte ſubverti potue<g ref="char:EOLhyphen"/>rit: &amp; licet in cauſa, nullum patronum, &amp;c. Cicero.</note> 
+               <hi>truth</hi> who ſpeakes from heaven, whoſe power is un<g ref="char:EOLhyphen"/>controulable.</p>
+            <p>Thirdly, ſurvey thy owne weakneſſe, and <hi>truths</hi> ſtrength; for thy owne ſtate, conſider that in the midſt of thy fury thou haſt but a curtaild horne, like a <hi>curſt Cow;</hi> thy heart haply may be full of hatred, but thy hatred not full of po<g ref="char:EOLhyphen"/>wer, ſo thou art leſſe noyſome to the <hi>truth,</hi> but no leſſe hurtfull to thy ſelfe.</p>
+            <p>And as for the power of <hi>truth,</hi> it was once determined in the<note n="l" place="margin">Eſdr. 3.</note> triall of wir, what was the ſtrongeſt: one anſwered <hi>A King;</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> for his command ſtretches farre and neare: Another ſaid <hi>Wine;</hi> for it overcomes the ſtrongeſt braine: A third ſaid, <hi>Women;</hi> for they bewitch the deepeſt wit: but in ſhort it was concluded, that <hi>Truth</hi> was ſtronger then all: all the reſt decay, but this continues: tis ſtill durable, tis permanent: though it be<note n="m" place="margin">Talis eſt veri<g ref="char:EOLhyphen"/>tatis ſtatus, ut etiam multis im<g ref="char:EOLhyphen"/>pugnantibus ſuſcitetur, &amp; creſcat. Chryſ.</note> trodden downe, yet it ſtill increaſeth. Why then wilt thou bee an enemy to the <hi>truth?</hi> why wilt thou hate it? nay, why wilt thou not love it?</p>
+            <p>Fourthly,<milestone type="tcpmilestone" unit="unspecified" n="4"/> if none of theſe will nove thee to love the <hi>truth,</hi> let the <hi>bleſſings</hi> with it, and the <hi>curſes</hi> without it; command thy affections to imbrace it: with it there is life, without it death: with it there is certaine peace, without it aſſured diſcord: with it there are outward bleſſings and inward, without it there are temporall plagues and eternall. But why ſtand I here to trifle with<note n="n" place="margin">Pauperis eſt numerare pecus.</note> 
+               <hi>Arithmetique?</hi> either theſe with it, or thoſe without it ſcorne to bee bounded with a ſtinted calculation. In a word then, have the <hi>truth</hi> and have God, and heaven, and all<note n="o" place="margin">Veritas ſola liberat, ſola ſal<g ref="char:EOLhyphen"/>vat, ſola lavat. Bern.</note> bleſſings; but bee without the <hi>truth,</hi> without the love of the <hi>truth,</hi> and have the devill, and hell, and all curſes,</p>
+            <p>
+               <pb n="27" facs="tcp:150656:19"/>Now therefore, let <hi>Solomons</hi> exhortation take footing in thy affection,<note n="p" place="margin">Prov. 23.23.</note> 
+               <hi>Buy the truth, and ſell it not:</hi> buy it with thy love; ſell it not with thy hatred: buy it at any <hi>rate;</hi> thou canſt not give the worth of it: ſell it for no <hi>price;</hi> thou canſt never againe match ſo precious a <hi>Pearle.</hi>
+            </p>
+            <p>And if by this time the love of the <hi>truth</hi> be wrought and habituated in thee, thou ſhalt know it by theſe ſignes and <hi>ſymptomes:</hi>
+            </p>
+            <p>Firſt, if thou loveſt the <hi>truth</hi> indeed,<milestone type="tcpmilestone" unit="unspecified" n="1"/> thou then loveſt the whole <hi>truth:</hi> the love of the <hi>truth</hi> muſt be an univerſall love of the whole, and of the parts: tis not a branch of <hi>truth</hi> that muſt onely be in thy acceptance: but even a <hi>reproofe</hi> (in ſea<g ref="char:EOLhyphen"/>ſon) muſt be as welcome as a <hi>promiſe</hi> is (at all times) gratefull.</p>
+            <p>Secondly, if thou loveſt the <hi>truth,</hi>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> thou loveſt it in all per<g ref="char:EOLhyphen"/>ſons: thou doeſt not miſtake the <hi>identity</hi> of the <hi>truth,</hi> but doſt highly prize it in robes, or in rags; in rich, or in poore; neither reiecting it in the one for poverty, nor overweening the meaſure of it in the other for plenty.</p>
+            <p>Laſtly, if the love of the <hi>truth</hi> be in thee,<milestone type="tcpmilestone" unit="unspecified" n="3"/> it then dilates and ſpreads it ſelfe in thee; for it is like the <hi>blood</hi> that runnes through every veine, or like the <hi>Soule</hi> which is in every part. Thou muſt goe up in this love of <hi>Truth,</hi> from ſtrength to ſtrength, as it were from<note n="q" place="margin">Mibbeth mi<g ref="char:EOLhyphen"/>draſha lebeth midraſha. Targ.</note> 
+               <hi>Schoole to Schoole,</hi>
+               <note n="r" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Phil. 3.13.</note> ſtretching forth all thy powers towards perfection; <hi>forgetting all that is be<g ref="char:EOLhyphen"/>hind,</hi> receiving <hi>Paul,</hi> (now againe) as <hi>an Angell of God,</hi> and no more hating him for telling the <hi>truth.</hi>
+            </p>
+            <p>Oh happy State thus to be made happy with the love of the <hi>truth:</hi> Bleſſed Symptomes, on whoſe browes ſoever they doe light: if wee can ſpy them out on our owne faces, they will teſtifie unto our conſciences, that we are Gods, and God is ours. If we have them, let us<note n="ſ" place="margin">Conjunge fu<g ref="char:EOLhyphen"/>nem ſuni, &amp; lineam lineae. Rch. Moſ.</note> increaſe them: if we have them not, let us labour for them; and neither <hi>hardly think, or</hi>
+               <note n="t" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Nazian.</note> 
+               <hi>lightly eſteeme</hi> of good <hi>Paul,</hi> (or Gods Miniſters) for <hi>telling the truth.</hi> So ſhall we live in the unity of the Spirit; and dye invironed with the bonds of peace. Which God grant of his tender mercy, through <hi>Ieſus Chriſt.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:150656:20"/>
+            <pb facs="tcp:150656:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
